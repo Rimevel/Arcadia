@@ -7,6 +7,10 @@
     {
       "path": "content/mods/modernfix.json",
       "sha1": "21740babf794d64234dbe44f52a2671d2e8a9aa7"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "42afc7eb44cd447f583b960ecaf65016194fb004"
     }
   ]
 }
