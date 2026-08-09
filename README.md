@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21 · neoforge 21.0.167**, 2 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 2 mods
 
 ## Contents
 
