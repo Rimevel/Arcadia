@@ -5,12 +5,20 @@
       "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
     },
     {
+      "path": "content/mods/create.json",
+      "sha1": "2e10a7f44a0789602ba07efdc3d65eb0fb75cc88"
+    },
+    {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/kubejs-create.json",
+      "sha1": "7ca4bb822dd1e42ad755a70ce72d1fdc0a1033a3"
+    },
+    {
       "path": "content/mods/kubejs.json",
-      "sha1": "8da8f8cb05fc5af6e3a31077479515791a922b56"
+      "sha1": "b47feac535231f86b09ac768dcd61278c2dfe351"
     },
     {
       "path": "content/mods/lootjs.json",

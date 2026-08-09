@@ -2,7 +2,7 @@
   "name": "Create",
   "side": "auto",
   "explicit": true,
-  "disabled": true,
+  "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
