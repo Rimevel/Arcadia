@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/mods/biolith.json",
+      "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
+    },
+    {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
@@ -15,6 +19,10 @@
     {
       "path": "content/mods/modernfix.json",
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
+    },
+    {
+      "path": "content/mods/no-mans-land.json",
+      "sha1": "fe23ad787f5e841440facc567bbbefd09705ff69"
     },
     {
       "path": "content/mods/probejs.json",
