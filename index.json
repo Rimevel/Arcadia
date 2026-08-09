@@ -5,8 +5,24 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/kubejs.json",
+      "sha1": "8da8f8cb05fc5af6e3a31077479515791a922b56"
+    },
+    {
+      "path": "content/mods/lootjs.json",
+      "sha1": "ac377036e953455ae738ef2e4965d3b1aa1af893"
+    },
+    {
       "path": "content/mods/modernfix.json",
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
+    },
+    {
+      "path": "content/mods/probejs.json",
+      "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/sodium.json",
