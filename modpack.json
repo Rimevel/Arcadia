@@ -1,0 +1,8 @@
+{
+  "name": "Arcadia",
+  "version": "1.0.0",
+  "minecraft": "1.21",
+  "loader": "neoforge",
+  "loaderVersion": "21.0.167",
+  "channel": "release"
+}
