@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "nmDcB62a",
       "slug": "modernfix",
-      "versionId": "HFaBErrM",
-      "versionNumber": "5.19.1+mc1.21",
-      "filename": "modernfix-neoforge-5.19.1+mc1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/HFaBErrM/modernfix-neoforge-5.19.1%2Bmc1.21.jar",
-      "sha1": "dcc30684651a7b1a8c7e2f595569b339bee59691",
-      "sha512": "3d199e8bb6c4c6dd3a0ccd2ff5265b3dbd4ba3f318e91bb4ab8025b3d8dff91d82e8b7a361c866a93d1244128b969f013afaabb3b9d303bae95fa8fa649c158a",
-      "fileSize": 477758
+      "versionId": "VsJnrw8k",
+      "versionNumber": "5.27.20+mc1.21.1",
+      "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+      "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
+      "sha512": "b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c",
+      "fileSize": 599474
     }
   },
   "dependents": [],
