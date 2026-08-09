@@ -43,6 +43,10 @@
     {
       "path": "content/mods/sodium.json",
       "sha1": "42afc7eb44cd447f583b960ecaf65016194fb004"
+    },
+    {
+      "path": "content/mods/streams-reflowing.json",
+      "sha1": "0903c42631300b796bf33e83548a9551723e37cf"
     }
   ]
 }
