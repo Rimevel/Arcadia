@@ -37,7 +37,7 @@ streamParticleScanRadius = 256
 #as well -- rivers, lakes, vanilla waterfalls -- not just this mod's own streams. Purely visual
 #and client-side.
 #  true = on (default).  false = only this mod's streams get the whitewater.
-particlesOnVanillaWater = true
+particlesOnVanillaWater = false
 #
 #Floating debris on the stream surface: sticks and (on 1.21.4+) leaves drifting downstream with
 #the current. Purely visual and client-side.
@@ -48,3 +48,11 @@ streamDebris = true
 #prepared during world creation. Purely visual and client-side.
 #  true = show (default).  false = hide it.
 loadingNotice = true
+#
+#How loud running water sounds. Streams murmur when you are beside them, and waterfalls carry --
+#a big fall can be heard from a long way off, growing into its full sound as you approach.
+#Rides the Ambient volume slider in your sound settings.
+#  0 = silent.  1 = normal (default).  Above 1 is louder.
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+waterAmbience = 1.0
