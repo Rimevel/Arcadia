@@ -41,6 +41,10 @@
       "sha1": "fe23ad787f5e841440facc567bbbefd09705ff69"
     },
     {
+      "path": "content/mods/packdev-toolkit.json",
+      "sha1": "9faf85eca39c5566e271a2f736b5545e678e71fd"
+    },
+    {
       "path": "content/mods/probejs.json",
       "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
     },
@@ -59,6 +63,10 @@
     {
       "path": "content/mods/supplementaries.json",
       "sha1": "c0fb24cf5909d91e642fce0d008d6ee07877da41"
+    },
+    {
+      "path": "content/mods/yacl.json",
+      "sha1": "7ec0eb711d013981a5ce1320e0052c9653f42a77"
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",

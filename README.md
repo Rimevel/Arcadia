@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 12 mods (3 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 13 mods (4 dependencies)
 
 ## Contents
 
@@ -12,6 +12,7 @@
 - [Mod Menu (NeoForge Edition)](https://modrinth.com/project/mod-menu-(neoforge-edition)) `1.0.2`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
+- [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `1.3.2-1.21.1-neoforge`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.1`
