@@ -93,12 +93,24 @@
       "sha1": "a55e4a2081e48f33566084ed4abcc66fe8fdd2ab"
     },
     {
+      "path": "overrides/config/mod_menu-client.toml",
+      "sha1": "beef23e7855d6b8a94482fa4559261fa2e0112d9"
+    },
+    {
       "path": "overrides/config/modernfix-common.toml",
       "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e"
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
       "sha1": "363b263796d22b72e97e89072413e529bcd692ee"
+    },
+    {
+      "path": "overrides/config/moonlight-client.toml",
+      "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be"
+    },
+    {
+      "path": "overrides/config/moonlight-common.toml",
+      "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -343,6 +355,14 @@
     {
       "path": "overrides/config/streamsreflowing/bank_styles/taiga_c.json",
       "sha1": "c371bad75b3e37282765b20e5718419ee4515d8e"
+    },
+    {
+      "path": "overrides/config/supplementaries-client.toml",
+      "sha1": "a9a6047ac614dffd8efeab79b8cf4b7ffb293276"
+    },
+    {
+      "path": "overrides/config/supplementaries-common.toml",
+      "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
