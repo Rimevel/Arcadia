@@ -157,6 +157,10 @@
       "sha1": "39619f49178050b70eb66f5f4585dc5610178c7b"
     },
     {
+      "path": "overrides/config/packdev_toolkit.json",
+      "sha1": "27f268cb5f4f25ca62193aea0a14daec806fac1e"
+    },
+    {
       "path": "overrides/config/ponder-client.toml",
       "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8"
     },
@@ -383,6 +387,10 @@
     {
       "path": "overrides/config/supplementaries-common.toml",
       "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2"
+    },
+    {
+      "path": "overrides/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
