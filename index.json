@@ -69,6 +69,18 @@
       "sha1": "7ec0eb711d013981a5ce1320e0052c9653f42a77"
     },
     {
+      "path": "overrides/.github/agents/kubejs-explore.agent.md",
+      "sha1": "eaa9f0ff7b4bf36382f88dc7c33247de52c6ac05"
+    },
+    {
+      "path": "overrides/.github/agents/kubejs-planner.agent.md",
+      "sha1": "b51dd3ddbd7a35718f2a80ea8a4f04bea2bb7014"
+    },
+    {
+      "path": "overrides/.github/agents/kubejs-survey.agent.md",
+      "sha1": "c60f98906b544712d04f5c64a1304287a0f61e14"
+    },
+    {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
     },
@@ -393,8 +405,8 @@
       "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
     },
     {
-      "path": "overrides/kubejs/client_scripts/main.js",
-      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+      "path": "overrides/kubejs/client_scripts/jsconfig.json",
+      "sha1": "9bd27234c9528da88d876ff0062b12a80f71d9f4"
     },
     {
       "path": "overrides/kubejs/config/client.json",
@@ -406,19 +418,23 @@
     },
     {
       "path": "overrides/kubejs/config/probe-settings.json",
-      "sha1": "5202224397edb2f8d353d3ff5cc105954f2ff56f"
+      "sha1": "1e333d1522084c1f488cc34480776a3236ed4c94"
     },
     {
       "path": "overrides/kubejs/config/web_server.json",
       "sha1": "09dd5da155ba0bae68d3df08818b79be5bbd7d5f"
     },
     {
-      "path": "overrides/kubejs/server_scripts/main.js",
-      "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+      "path": "overrides/kubejs/package.json",
+      "sha1": "501ce302909be44b6ef988518e09ffa6c3f7f9dc"
     },
     {
-      "path": "overrides/kubejs/startup_scripts/main.js",
-      "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
+      "path": "overrides/kubejs/server_scripts/jsconfig.json",
+      "sha1": "d31a94a6d1904349315e1257ea619c28bc13ee49"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/jsconfig.json",
+      "sha1": "aa3f72ea3c2ead5d73fa31f229a71bcb80b8142e"
     },
     {
       "path": "overrides/options.txt",
