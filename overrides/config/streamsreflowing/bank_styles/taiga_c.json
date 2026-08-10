@@ -1,0 +1,14 @@
+{
+    "tags": ["c:is_taiga"],
+    "bed": ["minecraft:clay", "minecraft:cobblestone", "minecraft:gravel"],
+    "waterline": [
+        "nomansland:silt",
+        "minecraft:cobblestone",
+        "minecraft:gravel"
+    ],
+    "bank": "streamsreflowing:chameleon",
+    "waterline_below": 2,
+    "waterline_above": 3,
+    "underwater_noise": 0.35,
+    "above_water_noise": 0.6
+}

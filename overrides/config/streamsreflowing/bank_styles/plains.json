@@ -1,0 +1,10 @@
+﻿{
+    "biomes": ["minecraft:plains", "minecraft:sunflower_plains"],
+    "bed": "minecraft:gravel",
+    "waterline": "nomansland:silt",
+    "bank": "streamsreflowing:chameleon",
+    "waterline_below": 1,
+    "waterline_above": 0,
+    "underwater_noise": 0.12,
+    "above_water_noise": 0.12
+}

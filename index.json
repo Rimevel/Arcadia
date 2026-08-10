@@ -165,6 +165,18 @@
       "sha1": "c45da081fdb0f457b3b2c1a0dbdbbf38983eb310"
     },
     {
+      "path": "overrides/config/streamsreflowing/bank_styles/climate_snowy.json",
+      "sha1": "ad870056f3a0598f6b1ef05867da6ccfaa6a3773"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/deciduous.json",
+      "sha1": "353a7dc23413a9361db4df8bc75fa61c9ad41dd2"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/default.json",
+      "sha1": "7c0d1a25686fe5bbc3fadf1745fc51a32f0cf2f2"
+    },
+    {
       "path": "overrides/config/streamsreflowing/bank_styles/examples/badlands.json",
       "sha1": "8b87d1d353c81a214be347adfbe462355b471dbd"
     },
@@ -299,6 +311,38 @@
     {
       "path": "overrides/config/streamsreflowing/bank_styles/examples/windswept.json",
       "sha1": "7862a0e9e657d5828e919e102ca4716452a18a0d"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/forest.json",
+      "sha1": "f37bd71b5a840020fe4647d3603bf98bea3f6c59"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/plains.json",
+      "sha1": "66d5708d0c1cd239e68c99b5653048bdfd14541c"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/plains_c.json",
+      "sha1": "f832731cb110f333cbaecbf928ca3d0c5d5938f4"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/river.json",
+      "sha1": "8c03fa26392eec72029235698f6dd002e58430ed"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/snowy.json",
+      "sha1": "c95d879af83359a4ac5455a8dffaaa1794defa50"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/snowy_beach.json",
+      "sha1": "3c0403607c96dab42047434cc99f8ebc8b0b7f3f"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/taiga.json",
+      "sha1": "6e46405a1290fbc323a3c05c86708cdef411bb11"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/taiga_c.json",
+      "sha1": "c371bad75b3e37282765b20e5718419ee4515d8e"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
