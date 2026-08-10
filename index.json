@@ -29,6 +29,10 @@
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
     },
     {
+      "path": "content/mods/moonlight.json",
+      "sha1": "9790b55b508629dbcdce6af8ef0eff484a83f473"
+    },
+    {
       "path": "content/mods/no-mans-land.json",
       "sha1": "fe23ad787f5e841440facc567bbbefd09705ff69"
     },
@@ -47,6 +51,10 @@
     {
       "path": "content/mods/streams-reflowing.json",
       "sha1": "0903c42631300b796bf33e83548a9551723e37cf"
+    },
+    {
+      "path": "content/mods/supplementaries.json",
+      "sha1": "c0fb24cf5909d91e642fce0d008d6ee07877da41"
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
