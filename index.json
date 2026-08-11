@@ -1,8 +1,20 @@
 {
   "files": [
     {
+      "path": "content/mods/acedium-sodiumized.json",
+      "sha1": "b9029e08a7de4c25c7cc7b3e9b7189610eb4e625"
+    },
+    {
       "path": "content/mods/biolith.json",
       "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
+    },
+    {
+      "path": "content/mods/bobby-reneoforged.json",
+      "sha1": "bc294578fdcd372e069091ca3a88e063de5e0aa8"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "882415723b3fd231ecd644ae63bf54a3b18fa721"
     },
     {
       "path": "content/mods/create.json",
@@ -19,6 +31,10 @@
     {
       "path": "content/mods/kubejs.json",
       "sha1": "b47feac535231f86b09ac768dcd61278c2dfe351"
+    },
+    {
+      "path": "content/mods/lithostitched.json",
+      "sha1": "4d893497c331c2afbdb146371d3d608d2dd82640"
     },
     {
       "path": "content/mods/lootjs.json",
@@ -49,12 +65,16 @@
       "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
     },
     {
+      "path": "content/mods/punchy-fpa.json",
+      "sha1": "e88a260577606239b7198b56193e131ade4fbf6c"
+    },
+    {
       "path": "content/mods/rhino.json",
       "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "42afc7eb44cd447f583b960ecaf65016194fb004"
+      "sha1": "25639402e48bacb96079bc3b6cc2228700a1f65a"
     },
     {
       "path": "content/mods/streams-reflowing.json",
@@ -62,7 +82,11 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "c0fb24cf5909d91e642fce0d008d6ee07877da41"
+      "sha1": "7b491d758d4f09c3453b74d4c9c07eb61a32c0bb"
+    },
+    {
+      "path": "content/mods/tectonic.json",
+      "sha1": "d1acf480548226d67460fbd5d8ccb5de6aacac36"
     },
     {
       "path": "content/mods/yacl.json",
@@ -83,6 +107,10 @@
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
+    },
+    {
+      "path": "overrides/config/bobby.conf",
+      "sha1": "11ef187f15f4831b5965d9d775a0650593af50ea"
     },
     {
       "path": "overrides/config/create-client.toml",
@@ -107,6 +135,10 @@
     {
       "path": "overrides/config/fml.toml",
       "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
+    },
+    {
+      "path": "overrides/config/lithostitched.json",
+      "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48"
     },
     {
       "path": "overrides/config/mixed_litter-startup.toml",
@@ -157,12 +189,24 @@
       "sha1": "39619f49178050b70eb66f5f4585dc5610178c7b"
     },
     {
+      "path": "overrides/config/nvidium-config.json",
+      "sha1": "c203bf91b37ede661ebdff1eb5bb0a9ec90dd070"
+    },
+    {
       "path": "overrides/config/packdev_toolkit.json",
       "sha1": "27f268cb5f4f25ca62193aea0a14daec806fac1e"
     },
     {
       "path": "overrides/config/ponder-client.toml",
       "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8"
+    },
+    {
+      "path": "overrides/config/punchy/merged_animation_selection.json",
+      "sha1": "fa3429e9b7c50daa32792902dbed56325f829d58"
+    },
+    {
+      "path": "overrides/config/punchy/punchy_config.json",
+      "sha1": "56cbcd0877c9eab6356eb7ef5731c130cbd55d41"
     },
     {
       "path": "overrides/config/sodium-mixins.properties",
@@ -387,6 +431,10 @@
     {
       "path": "overrides/config/supplementaries-common.toml",
       "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2"
+    },
+    {
+      "path": "overrides/config/tectonic.json",
+      "sha1": "be9402c07407aa6514f1fc1a4ff4f8c8d690bad9"
     },
     {
       "path": "overrides/config/yacl.json5",
