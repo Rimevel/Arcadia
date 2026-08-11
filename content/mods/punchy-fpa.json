@@ -1,0 +1,23 @@
+{
+  "name": "Punchy!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8aoMKplv",
+      "slug": "punchy-fpa",
+      "versionId": "RYt48afN",
+      "versionNumber": "2.6.2",
+      "filename": "punchy-2.6.2-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8aoMKplv/versions/RYt48afN/punchy-2.6.2-neoforge-1.21.1.jar",
+      "sha1": "96c094efc72a1bdcdfaae9129f6018d7215f13f7",
+      "sha512": "801945ef40f116d9db81dd21b3743e76fe1e68453f3592b034489fef361397759dc6776cb084b2ac97f5362147d7edb47edc3516e0105e857ed748f76d9fbc07",
+      "fileSize": 1714297
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
