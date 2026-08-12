@@ -1,0 +1,63 @@
+{
+  "config_version": "2.0.32",
+  "config_datetime": "2026-08-12_15-40-04",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "spacing": 25,
+      "separation": 15,
+      "name": "spawn:sandy_island",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "spawn:sandy_island": 1
+      }
+    },
+    {
+      "spacing": 30,
+      "separation": 20,
+      "name": "spawn:tide_pool",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "spawn:tide_pool": 1
+      }
+    },
+    {
+      "spacing": 25,
+      "separation": 15,
+      "name": "spawn:tropical_island",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "spawn:tropical_island": 1
+      }
+    },
+    {
+      "spacing": 40,
+      "separation": 25,
+      "name": "spawn:volcanic_island",
+      "is_disabled": false,
+      "salt": 10387313,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "spawn:volcanic_island": 1
+      }
+    }
+  ],
+  "structure_template_pools": []
+}
