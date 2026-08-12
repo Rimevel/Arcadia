@@ -1,0 +1,23 @@
+{
+  "name": "Nautilus Studio - Packs Editor IDE",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zRIA8Bvc",
+      "slug": "packs-editor",
+      "versionId": "8sDmVLYx",
+      "versionNumber": "1.21.1-1.5.6",
+      "filename": "nautilus_studio-1.21.1-1.5.6-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zRIA8Bvc/versions/8sDmVLYx/nautilus_studio-1.21.1-1.5.6-neoforge.jar",
+      "sha1": "551a11e67d30da9f25af4c2a166dbe918c0d184a",
+      "sha512": "cb3aa78cecebe019cd3ee1d4675f462e4a61f659191fe77ec17bbd46a9f4f9692a55a7322564e9c4cbb0b86c52b433a5f4f1056e9c595cac35fa0e93f9171ec8",
+      "fileSize": 4387214
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
