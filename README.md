@@ -1,23 +1,29 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 17 mods (6 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 23 mods (7 dependencies)
 
 ## Contents
 
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Bobby ReNeoForged [Unofficial Port]](https://modrinth.com/project/bobby-reneoforged) `5.2.4-0.4+mc1.21`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.368`
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Mod Menu (NeoForge Edition)](https://modrinth.com/project/mod-menu-(neoforge-edition)) `1.0.2`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
+- [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `1.21.1-1.5.6`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `1.3.2-1.21.1-neoforge`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
 - [Punchy!](https://modrinth.com/project/punchy-fpa) `2.6.2`
+- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.2.0-1.21.1-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-beta.1-neoforge`
+- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.7`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.9`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`

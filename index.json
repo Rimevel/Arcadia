@@ -9,6 +9,10 @@
       "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
     },
     {
+      "path": "content/mods/blueprint.json",
+      "sha1": "995cec3ef4177caf8cfc8488a7d8a3b40f4335a9"
+    },
+    {
       "path": "content/mods/bobby-reneoforged.json",
       "sha1": "bc294578fdcd372e069091ca3a88e063de5e0aa8"
     },
@@ -21,8 +25,20 @@
       "sha1": "2e10a7f44a0789602ba07efdc3d65eb0fb75cc88"
     },
     {
+      "path": "content/mods/emi-plus-backport.json",
+      "sha1": "7bf96f02ca9bfec7daca145b7e1b39af61f18112"
+    },
+    {
+      "path": "content/mods/emi.json",
+      "sha1": "f169010bd97401630fd89289be38ba6198f7fc20"
+    },
+    {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "dfd29e01337c68b572194d53d1fcf3cdbece135d"
     },
     {
       "path": "content/mods/kubejs-create.json",
@@ -61,6 +77,10 @@
       "sha1": "9faf85eca39c5566e271a2f736b5545e678e71fd"
     },
     {
+      "path": "content/mods/packs-editor.json",
+      "sha1": "c8f1b2dbaa76dce95f1e5f59fbbb1d8613c97caf"
+    },
+    {
       "path": "content/mods/probejs.json",
       "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
     },
@@ -77,6 +97,10 @@
       "sha1": "25639402e48bacb96079bc3b6cc2228700a1f65a"
     },
     {
+      "path": "content/mods/spawn-mod.json",
+      "sha1": "3ec4d3e65f7c9536f904c39cc32be5257a306714"
+    },
+    {
       "path": "content/mods/streams-reflowing.json",
       "sha1": "6ac8637c675483d98b283f7fdb4e835129bdc368"
     },
@@ -85,12 +109,16 @@
       "sha1": "7b491d758d4f09c3453b74d4c9c07eb61a32c0bb"
     },
     {
+      "path": "content/mods/teallib.json",
+      "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
+    },
+    {
       "path": "content/mods/tectonic.json",
       "sha1": "d1acf480548226d67460fbd5d8ccb5de6aacac36"
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "7ec0eb711d013981a5ce1320e0052c9653f42a77"
+      "sha1": "1ff93a92d7f8d5495230b14a98a7ccfe01717986"
     },
     {
       "path": "overrides/.github/agents/kubejs-explore.agent.md",
@@ -109,6 +137,14 @@
       "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
     },
     {
+      "path": "overrides/config/blueprint-client.toml",
+      "sha1": "35a77a86bf0f985346e0b950047c03d1fbc8573c"
+    },
+    {
+      "path": "overrides/config/blueprint-common.toml",
+      "sha1": "6d459bb8363766cb774dadd4062057123b56b04e"
+    },
+    {
       "path": "overrides/config/bobby.conf",
       "sha1": "11ef187f15f4831b5965d9d775a0650593af50ea"
     },
@@ -125,6 +161,10 @@
       "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36"
     },
     {
+      "path": "overrides/config/emi.css",
+      "sha1": "79ef47e18450812d1b099aa174b051d4dc92fd7a"
+    },
+    {
       "path": "overrides/config/ferritecore-mixin.toml",
       "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
     },
@@ -135,6 +175,34 @@
     {
       "path": "overrides/config/fml.toml",
       "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
+    },
+    {
+      "path": "overrides/config/jei-server.toml",
+      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8"
+    },
+    {
+      "path": "overrides/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    {
+      "path": "overrides/config/jei/jei-client.ini",
+      "sha1": "4b08ecbc151bf023eb019633914edbe57cc48f37"
+    },
+    {
+      "path": "overrides/config/jei/jei-colors.ini",
+      "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313"
+    },
+    {
+      "path": "overrides/config/jei/jei-debug.ini",
+      "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c"
+    },
+    {
+      "path": "overrides/config/jei/jei-mod-id-format.ini",
+      "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb"
+    },
+    {
+      "path": "overrides/config/jei/recipe-category-sort-order.ini",
+      "sha1": "1bbd6287a24661e740447342665e65435744ea94"
     },
     {
       "path": "overrides/config/lithostitched.json",
@@ -163,6 +231,10 @@
     {
       "path": "overrides/config/moonlight-common.toml",
       "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
+    },
+    {
+      "path": "overrides/config/nautilus_studio.json",
+      "sha1": "5483eacbe4226528a5cc033d8ef3ef7e0fa3b8f9"
     },
     {
       "path": "overrides/config/neoforge-client.toml",
@@ -209,12 +281,24 @@
       "sha1": "56cbcd0877c9eab6356eb7ef5731c130cbd55d41"
     },
     {
+      "path": "overrides/config/remi/remi.json",
+      "sha1": "5161420fb5743d3ca2fa958f6ccc02cede93ec6e"
+    },
+    {
       "path": "overrides/config/sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
     },
     {
       "path": "overrides/config/sodium-options.json",
       "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+    },
+    {
+      "path": "overrides/config/spawn-client.toml",
+      "sha1": "56b48d28c3b92ee4d3bea6046aad8494725bb17f"
+    },
+    {
+      "path": "overrides/config/spawn-server.toml",
+      "sha1": "1a7125be9adcb14d4a5ff94fe1f9858627b73507"
     },
     {
       "path": "overrides/config/streamsreflowing-client.toml",
@@ -431,6 +515,10 @@
     {
       "path": "overrides/config/supplementaries-common.toml",
       "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2"
+    },
+    {
+      "path": "overrides/config/teallib-client.toml",
+      "sha1": "bb026b78d495735f20511332ed49dc4bf654c6a9"
     },
     {
       "path": "overrides/config/tectonic.json",
