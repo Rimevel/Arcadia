@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 25 mods (7 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 27 mods (7 dependencies)
 
 ## Contents
 
@@ -15,9 +15,11 @@
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.368`
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.35-neoforge`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Mod Menu (NeoForge Edition)](https://modrinth.com/project/mod-menu-(neoforge-edition)) `1.0.2`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
+- [Multiblocked2](https://modrinth.com/project/multiblocked2) `mc1.21.1-21.0.11-neoforge`
 - [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `1.21.1-1.5.6`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `1.3.2-1.21.1-neoforge`

@@ -57,6 +57,10 @@
       "sha1": "b47feac535231f86b09ac768dcd61278c2dfe351"
     },
     {
+      "path": "content/mods/ldlib.json",
+      "sha1": "4f5a184349b19749b6f64cb5b8e422faad78f1c5"
+    },
+    {
       "path": "content/mods/lithostitched.json",
       "sha1": "4d893497c331c2afbdb146371d3d608d2dd82640"
     },
@@ -75,6 +79,10 @@
     {
       "path": "content/mods/moonlight.json",
       "sha1": "9790b55b508629dbcdce6af8ef0eff484a83f473"
+    },
+    {
+      "path": "content/mods/multiblocked2.json",
+      "sha1": "a9072482851e6c9ec8a8ea8f8ac7fa9507f78935"
     },
     {
       "path": "content/mods/no-mans-land.json",

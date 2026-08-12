@@ -1,0 +1,23 @@
+{
+  "name": "LDLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "B1CBVXHX",
+      "slug": "ldlib",
+      "versionId": "8lP9uJJ1",
+      "versionNumber": "mc1.21.1-2.2.35-neoforge",
+      "filename": "ldlib2-neoforge-1.21.1-2.2.35-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B1CBVXHX/versions/8lP9uJJ1/ldlib2-neoforge-1.21.1-2.2.35-all.jar",
+      "sha1": "09c736b32264724e2a80c24f351e514b99b921b7",
+      "sha512": "1cd542d20077bccce1f9450571903e86f7cd6f35b499eaf7ed87ba72cc54d13288fae184cff6c76ba8a2698c67d7384e0b42019c7eb80379bb5f107a977b4924",
+      "fileSize": 7063644
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

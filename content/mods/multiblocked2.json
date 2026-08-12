@@ -1,0 +1,23 @@
+{
+  "name": "Multiblocked2",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "R2gjKEpa",
+      "slug": "multiblocked2",
+      "versionId": "f1qypgZj",
+      "versionNumber": "mc1.21.1-21.0.11-neoforge",
+      "filename": "Multiblocked2-1.21-1.21.1-21.0.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R2gjKEpa/versions/f1qypgZj/Multiblocked2-1.21-1.21.1-21.0.11.jar",
+      "sha1": "49a49646289e34d6f6c5a2e2010e383966500c9b",
+      "sha512": "c65d1a4865a2e51d662cd838b73284cead8defcba7e62b95cdedf114695aef7078ba2439384252905fb71c29ce12196acc53701534441ee3b0efa73f4d071428",
+      "fileSize": 1773827
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
