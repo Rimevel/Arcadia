@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 24 mods (7 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 25 mods (7 dependencies)
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Bobby ReNeoForged [Unofficial Port]](https://modrinth.com/project/bobby-reneoforged) `5.2.4-0.4+mc1.21`
+- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`

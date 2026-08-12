@@ -25,6 +25,10 @@
       "sha1": "882415723b3fd231ecd644ae63bf54a3b18fa721"
     },
     {
+      "path": "content/mods/clutter-no-more.json",
+      "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
+    },
+    {
       "path": "content/mods/create.json",
       "sha1": "2e10a7f44a0789602ba07efdc3d65eb0fb75cc88"
     },
@@ -155,6 +159,14 @@
     {
       "path": "overrides/config/bobby.conf",
       "sha1": "11ef187f15f4831b5965d9d775a0650593af50ea"
+    },
+    {
+      "path": "overrides/config/clutternomore/client.toml",
+      "sha1": "510ac88b546703df25f4619aa38099e207a635fb"
+    },
+    {
+      "path": "overrides/config/clutternomore/startup.toml",
+      "sha1": "7fdd4dc05c7ef1c9cea9d59bf265858a5b5e7bab"
     },
     {
       "path": "overrides/config/create-client.toml",
