@@ -1,0 +1,22 @@
+{
+  "name": "KubeLoader",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1205072",
+      "slug": "kubeloader",
+      "versionId": "8624013",
+      "versionNumber": "kubeloader-21-0.1.0-Alpha-4-sources.jar",
+      "filename": "kubeloader-21-0.1.0-Alpha-4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8624/13/kubeloader-21-0.1.0-Alpha-4.jar",
+      "sha1": "83fc64a555e5f9345dd55d30fbe5d62c75f6ed65",
+      "fileSize": 317758
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

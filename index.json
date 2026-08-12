@@ -54,7 +54,11 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "b47feac535231f86b09ac768dcd61278c2dfe351"
+      "sha1": "a4294c81b4b1069b544119c96b7581b3f1301305"
+    },
+    {
+      "path": "content/mods/kubeloader.json",
+      "sha1": "bed72c7e828f56f88a0c543bfe2c171510b0842e"
     },
     {
       "path": "content/mods/ldlib.json",
@@ -106,7 +110,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "c9524753f7d111645155084793a8760849e56294"
+      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
     },
     {
       "path": "content/mods/sodium.json",
@@ -119,6 +123,10 @@
     {
       "path": "content/mods/streams-reflowing.json",
       "sha1": "6ac8637c675483d98b283f7fdb4e835129bdc368"
+    },
+    {
+      "path": "content/mods/structurify.json",
+      "sha1": "3b4d2768364e6cada2fe109e534aaf321b1438c8"
     },
     {
       "path": "content/mods/supplementaries.json",
@@ -134,7 +142,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "0d11b24f69efae27c6e5986d586d77ca55a07697"
+      "sha1": "9204703bd7d856529113c5f629b0be3e3753ff91"
     },
     {
       "path": "overrides/.github/agents/kubejs-explore.agent.md",
@@ -233,8 +241,16 @@
       "sha1": "1bbd6287a24661e740447342665e65435744ea94"
     },
     {
+      "path": "overrides/config/ldlib2-client.toml",
+      "sha1": "542bb8a4c122dc5d55a5021dcb348ac156f7e056"
+    },
+    {
       "path": "overrides/config/lithostitched.json",
       "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48"
+    },
+    {
+      "path": "overrides/config/mbd2-common.toml",
+      "sha1": "0313a269af40ae411ebb02283743ead09058a551"
     },
     {
       "path": "overrides/config/mixed_litter-startup.toml",
@@ -537,6 +553,10 @@
       "sha1": "c371bad75b3e37282765b20e5718419ee4515d8e"
     },
     {
+      "path": "overrides/config/structurify.json",
+      "sha1": "2a8b80d6991d833b76a6e95483e903a6d7a6aac0"
+    },
+    {
       "path": "overrides/config/supplementaries-client.toml",
       "sha1": "a9a6047ac614dffd8efeab79b8cf4b7ffb293276"
     },
@@ -587,6 +607,10 @@
     {
       "path": "overrides/kubejs/config/common.json",
       "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+    },
+    {
+      "path": "overrides/kubejs/config/kubeloaderconfig.toml",
+      "sha1": "1b23c4ddb53312c70618c397a7befc61d3d82015"
     },
     {
       "path": "overrides/kubejs/config/probe-settings.json",
