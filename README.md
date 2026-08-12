@@ -1,10 +1,11 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 23 mods (7 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 24 mods (7 dependencies)
 
 ## Contents
 
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
+- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Bobby ReNeoForged [Unofficial Port]](https://modrinth.com/project/bobby-reneoforged) `5.2.4-0.4+mc1.21`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`

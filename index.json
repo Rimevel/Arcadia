@@ -5,6 +5,10 @@
       "sha1": "b9029e08a7de4c25c7cc7b3e9b7189610eb4e625"
     },
     {
+      "path": "content/mods/better-clouds.json",
+      "sha1": "20a08bec4d088eee073c37fcd5d68927f0e2206a"
+    },
+    {
       "path": "content/mods/biolith.json",
       "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
     },
@@ -118,7 +122,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "1ff93a92d7f8d5495230b14a98a7ccfe01717986"
+      "sha1": "0d11b24f69efae27c6e5986d586d77ca55a07697"
     },
     {
       "path": "overrides/.github/agents/kubejs-explore.agent.md",
@@ -135,6 +139,10 @@
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
+    },
+    {
+      "path": "overrides/config/betterclouds-v1.json",
+      "sha1": "e99aab0bec7f94b02f551617d6566a2b0ffbc124"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
