@@ -1,6 +1,6 @@
 {
   "enableCreativeModeTabs": true,
-  "syncSelectedCreativeModeTab": true,
+  "syncSelectedCreativeModeTab": false,
   "showCreativeTabNameInSearchbar": true,
   "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
@@ -17,11 +17,11 @@
   "enableEntityTags": true,
   "enableTagSearchEnhancements": true,
   "disablePaginationWrapping": false,
-  "scrollInsteadOfPagination": false,
-  "showTitleInsteadOfPageNumbers": false,
-  "hidePageButtonWhenOnePage": false,
+  "scrollInsteadOfPagination": true,
+  "showTitleInsteadOfPageNumbers": true,
+  "hidePageButtonWhenOnePage": true,
   "incrementalScrollbarFill": false,
-  "searchWidgetAlignWithPanel": false,
+  "searchWidgetAlignWithPanel": true,
   "searchWidgetWidth": 0,
   "searchWidgetLeftOffset": 0,
   "searchWidgetTopOffset": 0,

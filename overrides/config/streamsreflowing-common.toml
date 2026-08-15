@@ -17,13 +17,13 @@ generateRivers = true
 #      matching any river, and only setting 2 will satisfy those.
 # Default: 1
 # Range: 0 ~ 2
-rebiomeStreams = 1
+rebiomeStreams = 0
 #
 #The same for the LAKES this mod carves, with the same three settings. Independent of
 #rebiomeStreams -- either can run on its own. Applies to NEW chunks only.
 # Default: 1
 # Range: 0 ~ 2
-rebiomeLakes = 1
+rebiomeLakes = 0
 #
 #Show the one-time Streams Reflowing notice in chat the first time this world is opened.
 #  true = show it once per world (default).  false = never show it.
@@ -78,7 +78,7 @@ welcomeMessage = true
 	#same water) use growDensity; for width alone use widthScale. Default 1.0.
 	# Default: 1.0
 	# Range: 0.05 ~ 20.0
-	wetnessMultiplier = 1.0
+	wetnessMultiplier = 0.8
 	#
 	#DRY-BIOME STREAM FLOOR -- the minimum share of streams (and humidity-scaled lake fill) that still
 	#form in the very driest biomes (deserts, badlands, etc.). 0.0 = fully-dry biomes get NO streams at
@@ -103,7 +103,7 @@ welcomeMessage = true
 	#Default 50. New chunks only.
 	# Default: 50
 	# Range: 0 ~ 2000
-	minStreamLength = 50
+	minStreamLength = 75
 	#
 	#SMALLEST LAKE -- the smallest basin (in blocks of water surface area) that fills as a lake.
 	#  1024 is roughly a 32x32 pond. Lower = more small ponds; higher = only sizable lakes.

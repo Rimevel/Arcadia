@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 28 mods (10 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 29 mods (10 dependencies)
 
 ## Contents
 
@@ -13,6 +13,7 @@
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
+- [keybindjs](https://modrinth.com/project/keybindjs) `2101-1.0.1`
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
 - KubeLoader `kubeloader-21-0.1.0-Alpha-4-sources.jar` (curseforge)
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.35-neoforge`
@@ -24,12 +25,12 @@
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `1.3.2-1.21.1-neoforge`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
-- [Punchy!](https://modrinth.com/project/punchy-fpa) `2.6.2`
-- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.2.0-1.21.1-neoforge`
+- [Punchy!](https://modrinth.com/project/punchy-fpa) `2.7c`
+- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.4.4-1.21.1-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-beta.1-neoforge`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.7`
-- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.1`
-- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.32+mc1.21.1`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.6`
+- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.33+mc1.21.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.9`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
 

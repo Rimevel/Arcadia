@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8aoMKplv",
       "slug": "punchy-fpa",
-      "versionId": "RYt48afN",
-      "versionNumber": "2.6.2",
-      "filename": "punchy-2.6.2-neoforge-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8aoMKplv/versions/RYt48afN/punchy-2.6.2-neoforge-1.21.1.jar",
-      "sha1": "96c094efc72a1bdcdfaae9129f6018d7215f13f7",
-      "sha512": "801945ef40f116d9db81dd21b3743e76fe1e68453f3592b034489fef361397759dc6776cb084b2ac97f5362147d7edb47edc3516e0105e857ed748f76d9fbc07",
-      "fileSize": 1714297
+      "versionId": "2EhcICcE",
+      "versionNumber": "2.7c",
+      "filename": "punchy-2.7c-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8aoMKplv/versions/2EhcICcE/punchy-2.7c-neoforge-1.21.1.jar",
+      "sha1": "270275b01099cc9db6f1e7e2e2c52e3584ebcdfc",
+      "sha512": "79a01c325ab2dc2e4628345eb95d8f4bcbe3b13898f7c383630819db5daf808e87dfa3a8f236a8000c5ddd1cb96b11264ced30926425c18b90cce790297b1c9d",
+      "fileSize": 1799504
     }
   },
   "dependents": [],

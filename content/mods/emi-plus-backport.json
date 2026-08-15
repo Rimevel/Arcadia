@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "N9WucjHL",
       "slug": "emi-plus-backport",
-      "versionId": "Nblb0Mpx",
-      "versionNumber": "4.2.0-1.21.1-neoforge",
-      "filename": "remi-neoforge-1.21.1-4.2.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/N9WucjHL/versions/Nblb0Mpx/remi-neoforge-1.21.1-4.2.0.jar",
-      "sha1": "09301828832aa693d32f41bce9a44123e35f6e50",
-      "sha512": "b0f484b3ac7614f96885f847400a6a25373c9726fd43e657f206c43637477fb4f51eee15232fabf1ad05a8c0c38f7e74f9f84b6685f77a7cb3c39e30e99a5dd1",
-      "fileSize": 214082
+      "versionId": "jVU2WYAb",
+      "versionNumber": "4.4.4-1.21.1-neoforge",
+      "filename": "remi-neoforge-1.21.1-4.4.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/N9WucjHL/versions/jVU2WYAb/remi-neoforge-1.21.1-4.4.4.jar",
+      "sha1": "f56e96da0341ea2f977038a0de0bdbdfd6c562d1",
+      "sha512": "be578965460832e1d1d174fe3741af2deaa1689d835093b371bcf99da3c2396dd1af616853e76e8912760c1eb9f741d8c82909cbb12674224cbdbd1de4d219b6",
+      "fileSize": 245422
     }
   },
   "dependents": [],

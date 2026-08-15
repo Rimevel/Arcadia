@@ -2,10 +2,10 @@
   "biomes": {
     "temperature_multiplier": 1.0,
     "temperature_offset": 0.0,
-    "temperature_scale": 0.25,
+    "temperature_scale": 0.20000000298023224,
     "vegetation_multiplier": 1.0,
     "vegetation_offset": 0.0,
-    "vegetation_scale": 0.25
+    "vegetation_scale": 0.20000000298023224
   },
   "caves": {
     // Whether old caves/ravines should generate. Game restart required!
@@ -17,7 +17,7 @@
     // The distance in depth between the start and end of the depth cutoff. 0.1 means caves close over ~12 blocks, 0.0 means caves cut off at the `depth_cutoff_start` value immediately.
     "depth_cutoff_size": 0.1,
     // The depth noise value that caves stop generating. 0.1 cuts off caves ~12 blocks below the surface, 0.5 cuts off caves ~64 blocks below the surface.
-    "depth_cutoff_start": 0.1,
+    "depth_cutoff_start": 0.10000000149011612,
     // Density added to noodle caves. Lower values = bigger noodle caves.
     "noodle_additive": -0.075,
     // The narrow, claustrophobic noodle-shaped caves.
@@ -33,7 +33,7 @@
     // Horizontally scales erosion, primarily impacting mountains. Lower values = thicker mountain ranges and terrain between them.
     "erosion_scale": 0.20000000298023224,
     // The threshold where plateau terrain becomes flatter terrain. Positive numbers favor flat terrain and negative numbers favor plateau terrain.
-    "flat_terrain_skew": 0.15000000596046448,
+    "flat_terrain_skew": 0.0,
     // Some jungles generate massive pillars that can extend upwards of a hundred blocks tall.
     "jungle_pillars": false,
     // Skews terrain towards or away from oceans. Lower values = more oceans. Above -0.45, deep oceans will not spawn! Above -0.2, oceans will not spawn!

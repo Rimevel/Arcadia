@@ -3,6 +3,9 @@
     "probejs.fullScanMods": [
         "minecraft",
         "kubejs",
-        "neoforge"
+        "neoforge",
+        "ldlib2",
+        "mdb2",
+        "emi"
     ]
 }
