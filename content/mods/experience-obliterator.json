@@ -1,0 +1,22 @@
+{
+  "name": "Experience Obliterator",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1653256",
+      "slug": "experience-obliterator",
+      "versionId": "8652386",
+      "versionNumber": "Experience Obliterator Neoforge 1.21.1 - 1.0.0",
+      "filename": "experience_obliterator-neoforge-1.21.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8652/386/experience_obliterator-neoforge-1.21.1-1.0.0.jar",
+      "sha1": "658aa3eb6feb64075e391ba8c85e0f28aefd5789",
+      "fileSize": 159508
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

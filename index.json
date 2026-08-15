@@ -41,6 +41,10 @@
       "sha1": "f169010bd97401630fd89289be38ba6198f7fc20"
     },
     {
+      "path": "content/mods/experience-obliterator.json",
+      "sha1": "d137901b3ddc992ce32eea4106f06adac53b51f2"
+    },
+    {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
@@ -83,6 +87,10 @@
     {
       "path": "content/mods/modernfix.json",
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
+    },
+    {
+      "path": "content/mods/modulation.json",
+      "sha1": "b816c7f9500825b7e67dc58d97745bbaa4dd933c"
     },
     {
       "path": "content/mods/moonlight.json",
@@ -146,7 +154,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "9204703bd7d856529113c5f629b0be3e3753ff91"
+      "sha1": "6348f62ab0516f002c1357ec89dbbc45eb6c2e7d"
     },
     {
       "path": "overrides/.github/agents/kubejs-explore.agent.md",

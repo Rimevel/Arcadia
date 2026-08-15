@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 29 mods (10 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 31 mods (11 dependencies)
 
 ## Contents
 
@@ -11,6 +11,7 @@
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- Experience Obliterator `Experience Obliterator Neoforge 1.21.1 - 1.0.0` (curseforge)
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
 - [keybindjs](https://modrinth.com/project/keybindjs) `2101-1.0.1`
@@ -20,6 +21,7 @@
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Mod Menu (NeoForge Edition)](https://modrinth.com/project/mod-menu-(neoforge-edition)) `1.0.2`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
+- [Modulation](https://modrinth.com/project/modulation) `2.2.4-1.21.1-neoforge`
 - [Multiblocked2](https://modrinth.com/project/multiblocked2) `mc1.21.1-21.0.11-neoforge`
 - [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `1.21.1-1.5.6`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
