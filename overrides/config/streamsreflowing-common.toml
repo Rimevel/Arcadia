@@ -88,10 +88,12 @@ welcomeMessage = true
 	wetnessDryFloor = 0.02
 	#
 	#How finely streams BRANCH -- how much upstream drainage a cell needs before it becomes a stream.
-	#  LOWER = more, finer tributaries (denser, more fractal branching).  1.0 = sparsest.
+	#  LOWER = more, finer tributaries (denser, more fractal branching).
+	#  ABOVE 1.0 = sparser than the classic network: only the better-fed channels form,
+	#  so valleys carry a single stream instead of a branching set. 2.0 is the sparsest.
 	#Default 0.75.
 	# Default: 0.75
-	# Range: 0.1 ~ 1.0
+	# Range: 0.1 ~ 2.0
 	growDensity = 0.75
 	#
 	#SHORTEST STREAM -- the shortest stream, in BLOCKS, allowed to run from its own source
@@ -272,6 +274,17 @@ welcomeMessage = true
 	##streamsreflowing:no_underwater_flora, which SHIPS with snowy + desert biomes (both are honoured).
 	#New chunks only. Default empty (the shipped tag still applies).
 	underwaterFloraBiomeBlacklist = ""
+	#
+	#VANILLA-RIVER DRAINAGE AREA -- how large an area each river flow computation covers, as a
+	#factor of the watershed size. Larger areas let long rivers find their real ocean outlet,
+	#so their current runs the right way for their whole length.
+	#  1 = watershed-sized.  2 = twice the watershed.  3 = four times.
+	#Each area is computed once in the background and saved with the world; larger areas take
+	#proportionally longer before distant river water starts moving.
+	#Default 2. New chunks only.
+	# Default: 1
+	# Range: 1 ~ 3
+	riverDrainageSize = 1
 
 #WATER & BOATS -- runtime behaviour of water itself. These affect ALL water in the world, not
 #just this mod's streams, and apply LIVE (no regeneration needed).
