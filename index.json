@@ -114,7 +114,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "c9524753f7d111645155084793a8760849e56294"
+      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
     },
     {
       "path": "content/mods/sodium.json",
@@ -547,6 +547,10 @@
     {
       "path": "overrides/config/streamsreflowing/bank_styles/snowy_beach.json",
       "sha1": "3c0403607c96dab42047434cc99f8ebc8b0b7f3f"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/swamp.json",
+      "sha1": "3aa6cec52c4af459a51432996ca719d17043a894"
     },
     {
       "path": "overrides/config/streamsreflowing/bank_styles/taiga.json",
