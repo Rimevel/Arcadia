@@ -65,7 +65,7 @@ welcomeMessage = true
 	#  larger sizes make each pause longer but less frequent.
 	# Default: -1
 	# Range: -1 ~ 8192
-	plateSize = -1
+	plateSize = 1500
 
 #APPEARANCE -- how streams look. These shape the network and channels and do NOT meaningfully
 #affect speed. Anything that changes the network (most of these) applies to NEW chunks only.
@@ -105,7 +105,7 @@ welcomeMessage = true
 	#Default 50. New chunks only.
 	# Default: 50
 	# Range: 0 ~ 2000
-	minStreamLength = 75
+	minStreamLength = 150
 	#
 	#SMALLEST LAKE -- the smallest basin (in blocks of water surface area) that fills as a lake.
 	#  1024 is roughly a 32x32 pond. Lower = more small ponds; higher = only sizable lakes.
@@ -284,7 +284,7 @@ welcomeMessage = true
 	#Default 2. New chunks only.
 	# Default: 1
 	# Range: 1 ~ 3
-	riverDrainageSize = 1
+	riverDrainageSize = 2
 
 #WATER & BOATS -- runtime behaviour of water itself. These affect ALL water in the world, not
 #just this mod's streams, and apply LIVE (no regeneration needed).
