@@ -57,3 +57,5 @@ cherishedworlds-favorites.dat
 config/sodium-fingerprint.json
 packdev_toolkit_data_pack/
 .bobby/
+config/structurify/structurify_backup_*
+.vscode/
