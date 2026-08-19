@@ -1,0 +1,23 @@
+{
+  "name": "Blur+",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NK39zBp2",
+      "slug": "blur-plus",
+      "versionId": "xONakKZi",
+      "versionNumber": "6.3.1+1.21.1-neoforge",
+      "filename": "blur-neoforge-6.3.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NK39zBp2/versions/xONakKZi/blur-neoforge-6.3.1%2B1.21.1.jar",
+      "sha1": "5e70c05c8233e72a0a5647c72355b46b11711029",
+      "sha512": "c307cbd765ffb5edc55ad939553ae9fe7ca2d50d01bd1f0e71821ca51338253b5f6636028998a5af06dd4352bf10919f998fb4e38606880389b574ccd4f595f5",
+      "fileSize": 211164
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

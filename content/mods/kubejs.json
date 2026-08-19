@@ -3,26 +3,22 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "modrinth",
+  "preferred": "curseforge",
   "sources": {
-    "modrinth": {
-      "id": "umyGl7zF",
+    "curseforge": {
+      "id": "238086",
       "slug": "kubejs",
-      "versionId": "F2nzeC19",
-      "versionNumber": "2101.7.2-build.368",
+      "versionId": "8083208",
+      "versionNumber": "KubeJS NeoForge 2101.7.2-build.368",
       "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar",
-      "sha1": "edf131afd474151afe076ea975ce5fec5a206ad8",
-      "sha512": "5e2f1bd1460d8f443ce4bd44ed367d27f9170e50dff2ce9430954206e89651f8969dfbe842c3100b0244f8d58f843fc5fb9c46b5c576430a07f1e5b6dd4b9f7b",
+      "downloadUrl": "https://edge.forgecdn.net/files/8083/208/kubejs-neoforge-2101.7.2-build.368.jar",
+      "sha1": "cd8e1e392d642e4d0f1fbc099d93da105c263d0d",
       "fileSize": 2281720
     }
   },
   "dependents": [
-    "JJNYRb4B",
-    "T38eAZQC",
-    "fJFETWDN",
-    "g3ouhJY7"
+    "1205072"
   ],
-  "clientSide": "optional",
-  "serverSide": "optional"
+  "clientSide": "required",
+  "serverSide": "required"
 }

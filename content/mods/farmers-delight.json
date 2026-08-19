@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "R2OftAxM",
       "slug": "farmers-delight",
-      "versionId": "GbNuOZ4S",
-      "versionNumber": "1.21.1-1.3.2",
-      "filename": "FarmersDelight-1.21.1-1.3.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar",
-      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622",
-      "sha512": "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694",
-      "fileSize": 3163042
+      "versionId": "wpkbWnVh",
+      "versionNumber": "1.21.1-1.3.3",
+      "filename": "FarmersDelight-1.21.1-1.3.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/wpkbWnVh/FarmersDelight-1.21.1-1.3.3.jar",
+      "sha1": "55ea87dec84a632690a748857db08a35941980b6",
+      "sha512": "57978eb985131dd25a0d098362b4c6eabf9c607d8048b1a639e231c4fcee53c1a05453cedfe6a4a52da4ab8bf4190cdb520a6c3097e8e0993cf7360ad693dc15",
+      "fileSize": 3160883
     }
   },
   "dependents": [],

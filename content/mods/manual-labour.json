@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "kCbtgaek",
       "slug": "manual-labour",
-      "versionId": "sEYQ9Sr1",
-      "versionNumber": "2.2.4-1.21.1",
-      "filename": "manual_labour-1.21.1-2.2.4.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/kCbtgaek/versions/sEYQ9Sr1/manual_labour-1.21.1-2.2.4.jar",
-      "sha1": "2dcf568936e7820fca93d2477dd14a2727e43362",
-      "sha512": "71451752db85988f326a21d7ce3f8488a53b64325b848bf72513b7d5dcb9adfc5c23114597ea8021c4317c8fb960fd7eb4a3cf03dce7b9b928564a636dbec422",
-      "fileSize": 2332476
+      "versionId": "u7nH2RVa",
+      "versionNumber": "2.3.1-1.21.1",
+      "filename": "manual_labour-1.21.1-2.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kCbtgaek/versions/u7nH2RVa/manual_labour-1.21.1-2.3.1.jar",
+      "sha1": "6ac203a7afe42d3f1513c1e4d42ef46e4be44a60",
+      "sha512": "52ccbb892ff11b7994d9f4ca6183017f72f9ab10201aa9fdda9c25daf072832ef67c015c213ad16d5b1f4c45400dbcf8400d8ff6473d38c100141591637e7da6",
+      "fileSize": 2351840
     }
   },
   "dependents": [],

@@ -1,0 +1,23 @@
+{
+  "name": "Reliable EMI (REMI)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "N9WucjHL",
+      "slug": "reliable-emi",
+      "versionId": "lTWWSrvx",
+      "versionNumber": "4.6.1-1.21.1-neoforge",
+      "filename": "remi-neoforge-1.21.1-4.6.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/N9WucjHL/versions/lTWWSrvx/remi-neoforge-1.21.1-4.6.1.jar",
+      "sha1": "425f3d787b36c612e1102c519b9a411f2abd07ab",
+      "sha512": "ae86bf2f1a9c07955c5832e0bc480f28db06266992f5703fdf235f9cbb63fd1a59186e09d3d316363ac39da6e2fe0f2d30b714cc28f787b77e4cb93746604a58",
+      "fileSize": 274412
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Metallurgy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Soft45xC",
+      "slug": "create-metallurgy",
+      "versionId": "4RhIMmaJ",
+      "versionNumber": "1.0.3-1.21.1",
+      "filename": "createmetallurgy-1.0.3-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Soft45xC/versions/4RhIMmaJ/createmetallurgy-1.0.3-1.21.1.jar",
+      "sha1": "ece75dfa1eb907bce3ace729c0144df0b2451673",
+      "sha512": "e052bddbeb39b68c1482cfe2ebf9919db17d40d71e9f46f96375d82ec876dc0abb4e15b2c14cd1a9e7636d7f80166b2ec336507df7fcc452fd871cc4873ef881",
+      "fileSize": 2035560
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

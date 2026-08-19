@@ -5,6 +5,10 @@
       "sha1": "b9029e08a7de4c25c7cc7b3e9b7189610eb4e625"
     },
     {
+      "path": "content/mods/amendments.json",
+      "sha1": "72aef9c6d712ade7b9ee8c34c48174fc3781b9c1"
+    },
+    {
       "path": "content/mods/better-clouds.json",
       "sha1": "20a08bec4d088eee073c37fcd5d68927f0e2206a"
     },
@@ -17,24 +21,28 @@
       "sha1": "995cec3ef4177caf8cfc8488a7d8a3b40f4335a9"
     },
     {
+      "path": "content/mods/blur-plus.json",
+      "sha1": "538467dc436503501de64a9272bdab6725c300c4"
+    },
+    {
       "path": "content/mods/bobby-reneoforged.json",
       "sha1": "bc294578fdcd372e069091ca3a88e063de5e0aa8"
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "882415723b3fd231ecd644ae63bf54a3b18fa721"
+      "sha1": "f2bcfb2bbb994e9c03dc6437e9fa254a46882de2"
     },
     {
       "path": "content/mods/clutter-no-more.json",
       "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
     },
     {
-      "path": "content/mods/create.json",
-      "sha1": "2e10a7f44a0789602ba07efdc3d65eb0fb75cc88"
+      "path": "content/mods/create-metallurgy.json",
+      "sha1": "6dce107d2830b69f6349745826dac6e2e662efd9"
     },
     {
-      "path": "content/mods/emi-plus-backport.json",
-      "sha1": "38c28af670c55317d830dfeefd5ae1860bd3ecc4"
+      "path": "content/mods/create.json",
+      "sha1": "d8c461903c0e48458208249666fdf203f5784752"
     },
     {
       "path": "content/mods/emi.json",
@@ -42,7 +50,11 @@
     },
     {
       "path": "content/mods/experience-obliterator.json",
-      "sha1": "d137901b3ddc992ce32eea4106f06adac53b51f2"
+      "sha1": "c54efcec7a1cad1ba3fa73b5d877c7ac89c440d3"
+    },
+    {
+      "path": "content/mods/farmers-delight.json",
+      "sha1": "01fec2014e6cbc57507e9cc20ed07d7eb770b384"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -62,7 +74,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "20fc0ec93f7d50556ac56e015a12899098301d36"
+      "sha1": "c4cdfbd148d761661516a45b08050ab67b1228dd"
     },
     {
       "path": "content/mods/kubeloader.json",
@@ -70,15 +82,19 @@
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "4f5a184349b19749b6f64cb5b8e422faad78f1c5"
-    },
-    {
-      "path": "content/mods/lithostitched.json",
-      "sha1": "4d893497c331c2afbdb146371d3d608d2dd82640"
+      "sha1": "8eb7b49405a75081074a644bb80d96a47b0fcf02"
     },
     {
       "path": "content/mods/lootjs.json",
       "sha1": "ac377036e953455ae738ef2e4965d3b1aa1af893"
+    },
+    {
+      "path": "content/mods/manual-labour.json",
+      "sha1": "3c0db701567c3b05171ded05ba73ccfc921677bb"
+    },
+    {
+      "path": "content/mods/midnightlib.json",
+      "sha1": "23065ee4351a8ef1dbad6fdfb2e7dabaced62424"
     },
     {
       "path": "content/mods/mod-menu--neoforge-edition-.json",
@@ -89,12 +105,16 @@
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
     },
     {
+      "path": "content/mods/modest-magic.json",
+      "sha1": "5329d7d275c1dc63fb8c853f76da769157ca91f7"
+    },
+    {
       "path": "content/mods/modulation.json",
-      "sha1": "b816c7f9500825b7e67dc58d97745bbaa4dd933c"
+      "sha1": "e8564b8da2ec32b2a79029e2f64d2701610742b6"
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "9790b55b508629dbcdce6af8ef0eff484a83f473"
+      "sha1": "44335c088121fe5cce2af5ffa2c3fe803dc85420"
     },
     {
       "path": "content/mods/multiblocked2.json",
@@ -106,7 +126,7 @@
     },
     {
       "path": "content/mods/packdev-toolkit.json",
-      "sha1": "9faf85eca39c5566e271a2f736b5545e678e71fd"
+      "sha1": "cb097e189efb7d40202b11f56ba22c5c51420d85"
     },
     {
       "path": "content/mods/packs-editor.json",
@@ -117,8 +137,28 @@
       "sha1": "affcb7fe41f9f3d6e92a6cf542768bf23130eee0"
     },
     {
-      "path": "content/mods/punchy-fpa.json",
-      "sha1": "6d5b4ae69df751c1ae37664878bab6166d3ba7c6"
+      "path": "content/mods/quark.json",
+      "sha1": "723c06c6cbd16ad98e38eff16aa0111b25a6629f"
+    },
+    {
+      "path": "content/mods/reliable-advancements.json",
+      "sha1": "14f3eef0f9fbf6af268dd02a376c221ab1dc10b2"
+    },
+    {
+      "path": "content/mods/reliable-emi.json",
+      "sha1": "ada7aae4f22ba2796fa248bb098dd8d18c746b6d"
+    },
+    {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "42bd4f5f63fe53096ee639120412a9876ea6d304"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "b8a24f9530030a2e2f5252d97c145dfe9a18f1cd"
+    },
+    {
+      "path": "content/mods/reliable-replacer.json",
+      "sha1": "bb756630bc2227e3eac906bfb1d25aa4b52ae6bf"
     },
     {
       "path": "content/mods/rhino.json",
@@ -142,19 +182,19 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "7b491d758d4f09c3453b74d4c9c07eb61a32c0bb"
+      "sha1": "12b022b8c341b8c10ec3955802e027a5b31b932f"
     },
     {
       "path": "content/mods/teallib.json",
       "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
     },
     {
-      "path": "content/mods/tectonic.json",
-      "sha1": "d1acf480548226d67460fbd5d8ccb5de6aacac36"
+      "path": "content/mods/yacl.json",
+      "sha1": "9d142915679de3e5185df6e3ac12339019c7940c"
     },
     {
-      "path": "content/mods/yacl.json",
-      "sha1": "6348f62ab0516f002c1357ec89dbbc45eb6c2e7d"
+      "path": "content/mods/zeta.json",
+      "sha1": "def9c3e5736eac01b830527eb7a0988dbe3ba251"
     },
     {
       "path": "overrides/.github/agents/kubejs-explore.agent.md",
@@ -329,12 +369,8 @@
       "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8"
     },
     {
-      "path": "overrides/config/punchy/merged_animation_selection.json",
-      "sha1": "fa3429e9b7c50daa32792902dbed56325f829d58"
-    },
-    {
-      "path": "overrides/config/punchy/punchy_config.json",
-      "sha1": "56cbcd0877c9eab6356eb7ef5731c130cbd55d41"
+      "path": "overrides/config/quark-common.toml",
+      "sha1": "c73345f8c32cb8c839ea45e16456500f573c5b4c"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -362,7 +398,7 @@
     },
     {
       "path": "overrides/config/streamsreflowing-common.toml",
-      "sha1": "3412071d97b1c8ab3e8dd63b6aea378b58a63e33"
+      "sha1": "d84b69c4c92973975c2b9845bb01a8501ea84b3d"
     },
     {
       "path": "overrides/config/streamsreflowing/bank_features/GUIDE.md",
@@ -469,6 +505,10 @@
       "sha1": "404b0d0c38f42aa533c33e0d1cf2e4a03fde2030"
     },
     {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/ocean_c.json",
+      "sha1": "98a7958a1e05be5a71383fb772602c415cf91efb"
+    },
+    {
       "path": "overrides/config/streamsreflowing/bank_styles/examples/ocean_cold.json",
       "sha1": "161d8377c2f596821f6a04c53836a407820d80de"
     },
@@ -495,6 +535,10 @@
     {
       "path": "overrides/config/streamsreflowing/bank_styles/examples/river.json",
       "sha1": "8c03fa26392eec72029235698f6dd002e58430ed"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/river_c.json",
+      "sha1": "9c04fecfe13efd47c073cf6674d58ae86d850032"
     },
     {
       "path": "overrides/config/streamsreflowing/bank_styles/examples/savanna.json",
@@ -585,12 +629,12 @@
       "sha1": "bb026b78d495735f20511332ed49dc4bf654c6a9"
     },
     {
-      "path": "overrides/config/tectonic.json",
-      "sha1": "0c9c1a2fd256991f8522f0b9992c8ddd58f874b7"
-    },
-    {
       "path": "overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "overrides/config/zeta-common.toml",
+      "sha1": "eb1942c061fa7ce8208d207125357041bf429ca1"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
@@ -637,12 +681,24 @@
       "sha1": "09dd5da155ba0bae68d3df08818b79be5bbd7d5f"
     },
     {
+      "path": "overrides/kubejs/data/nomansland/loot_table/chest/ancient_pot_cave.json",
+      "sha1": "0163ffc1f752edc344a5c8d5372291281057c2b4"
+    },
+    {
       "path": "overrides/kubejs/package.json",
       "sha1": "501ce302909be44b6ef988518e09ffa6c3f7f9dc"
     },
     {
       "path": "overrides/kubejs/server_scripts/jsconfig.json",
       "sha1": "d31a94a6d1904349315e1257ea619c28bc13ee49"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/tags/heat_sources.js",
+      "sha1": "f762678e8b74a627c3f5082db5f0a9b8fe689dc6"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/worldgen/compat/fallen_leaves.js",
+      "sha1": "606fa5d4133325e761d9b5b298666686bab68ef8"
     },
     {
       "path": "overrides/kubejs/startup_scripts/jsconfig.json",
