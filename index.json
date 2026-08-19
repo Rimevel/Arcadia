@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "c4cdfbd148d761661516a45b08050ab67b1228dd"
+      "sha1": "20fc0ec93f7d50556ac56e015a12899098301d36"
     },
     {
       "path": "content/mods/kubeloader.json",
@@ -162,7 +162,7 @@
     },
     {
       "path": "content/mods/rhino.json",
-      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
+      "sha1": "c9524753f7d111645155084793a8760849e56294"
     },
     {
       "path": "content/mods/sodium.json",
@@ -209,6 +209,14 @@
       "sha1": "c60f98906b544712d04f5c64a1304287a0f61e14"
     },
     {
+      "path": "overrides/config/amendments-client.toml",
+      "sha1": "6d1b8ceed8593e58deba2707a2e94d8eab645beb"
+    },
+    {
+      "path": "overrides/config/amendments-common.toml",
+      "sha1": "7d7e7f5b35de6851b089188bd4d4d9670442fdce"
+    },
+    {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
     },
@@ -250,7 +258,19 @@
     },
     {
       "path": "overrides/config/emi.css",
-      "sha1": "5a28b0b369ce2b8a9df5c9dc2195b73263a6d434"
+      "sha1": "a6f661bf5f2a7a77e075f1bc6a98f71bb4c08fc7"
+    },
+    {
+      "path": "overrides/config/experience_obliterator.json",
+      "sha1": "8c0c8c80bcdd8c7783e71669ccb6635ff5e1f528"
+    },
+    {
+      "path": "overrides/config/farmersdelight-client.toml",
+      "sha1": "649ffb20a99fa6a43ce25a5207c5461fee9f135d"
+    },
+    {
+      "path": "overrides/config/farmersdelight-common.toml",
+      "sha1": "94acfbb88ae7c6618e0650aaa867eaaef8b9783a"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -290,7 +310,11 @@
     },
     {
       "path": "overrides/config/jei/recipe-category-sort-order.ini",
-      "sha1": "1bbd6287a24661e740447342665e65435744ea94"
+      "sha1": "6f1b03600b0310048c3d5c9669d47ca0242454c2"
+    },
+    {
+      "path": "overrides/config/kubeloader-common.toml",
+      "sha1": "324a2c38b068e73fb7c48b4c02f792921962fa37"
     },
     {
       "path": "overrides/config/ldlib2-client.toml",
@@ -301,8 +325,16 @@
       "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48"
     },
     {
+      "path": "overrides/config/manual_labour.json",
+      "sha1": "b0da49694ca617ec6e8cd40494ceb8580bc6f814"
+    },
+    {
       "path": "overrides/config/mbd2-common.toml",
       "sha1": "0313a269af40ae411ebb02283743ead09058a551"
+    },
+    {
+      "path": "overrides/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
     },
     {
       "path": "overrides/config/mixed_litter-startup.toml",
@@ -321,8 +353,16 @@
       "sha1": "363b263796d22b72e97e89072413e529bcd692ee"
     },
     {
+      "path": "overrides/config/modestmagic.json",
+      "sha1": "4c268a373679fb35211d648260e283997df173d1"
+    },
+    {
+      "path": "overrides/config/modulation.json",
+      "sha1": "104190a15a265d9ba63f0993117d2f27fe78c40c"
+    },
+    {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be"
+      "sha1": "74af5357fd1834b5fc17291ab1834162342996e8"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
@@ -373,8 +413,36 @@
       "sha1": "c73345f8c32cb8c839ea45e16456500f573c5b4c"
     },
     {
+      "path": "overrides/config/reliable_advancements.json",
+      "sha1": "b56bd7f7efb28ead77202c147cf86ca4282b72b0"
+    },
+    {
+      "path": "overrides/config/reliable_recipes.json",
+      "sha1": "6b7676a6d52541630756a7cba298d8ad97b9dbc8"
+    },
+    {
+      "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
+      "sha1": "0a43e209f514da5904521394375e8ea1ec0d890d"
+    },
+    {
+      "path": "overrides/config/reliable_remover.json",
+      "sha1": "2dd917e6916c1d52f54f5de2b13bd0ee58e1cffe"
+    },
+    {
+      "path": "overrides/config/reliable_remover/removal_example.json.disabled",
+      "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
+    },
+    {
+      "path": "overrides/config/reliable_replacer.json",
+      "sha1": "1133f4e856244f84d12c590f7672524cd4f98cb4"
+    },
+    {
+      "path": "overrides/config/reliable_replacer/example_rules.json.disabled",
+      "sha1": "1f9bf65ba5406180239d9a82a9b6b5c6e95e46ba"
+    },
+    {
       "path": "overrides/config/remi/remi.json",
-      "sha1": "e0935be1209322062bd08f5f22229aac3a0f1992"
+      "sha1": "d7e86c6f8240e71bae75003a6a103d7f4f2f7623"
     },
     {
       "path": "overrides/config/sodium-mixins.properties",
@@ -618,11 +686,11 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "a9a6047ac614dffd8efeab79b8cf4b7ffb293276"
+      "sha1": "0ad07ecb318648689a5bd6ffdbe6acd1e6411ee9"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2"
+      "sha1": "22d9405e61c22298b873b9258c82756fd298dd60"
     },
     {
       "path": "overrides/config/teallib-client.toml",

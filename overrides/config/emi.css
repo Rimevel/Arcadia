@@ -187,7 +187,7 @@
 	/**
 	 * Where to position the left sidebar
 	 */
-	left-sidebar-align: left, center;
+	left-sidebar-align: center, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
@@ -197,7 +197,7 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: vanilla;
+	left-sidebar-theme: modern;
 
 	/**
 	 * The pages in the right sidebar
@@ -222,17 +222,17 @@
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: right, center;
+	right-sidebar-align: center, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
 	 */
-	right-sidebar-header: visible;
+	right-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: vanilla;
+	right-sidebar-theme: modern;
 
 	/**
 	 * The pages in the top sidebar
@@ -303,7 +303,7 @@
 	/**
 	 * Which theme to use for the bottom sidebar
 	 */
-	bottom-sidebar-theme: transparent;
+	bottom-sidebar-theme: vanilla;
 }
 
 #binds {
