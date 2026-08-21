@@ -13,6 +13,10 @@
       "sha1": "c694e8fd7b9c46a6e9988003cddc264e88cb80dc"
     },
     {
+      "path": "content/mods/atmospheric.json",
+      "sha1": "ec5ed8229160fdc2d687d90fa469b68fa876c778"
+    },
+    {
       "path": "content/mods/attributes.json",
       "sha1": "321dcdf28c8c1b4761d89b867e72c20db425150b"
     },
@@ -26,7 +30,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "24b0710a9bf6d214b4983696601bdf6ea81b06b1"
+      "sha1": "81618a78b0092e3ef29c1968701703b636312c16"
     },
     {
       "path": "content/mods/blur-plus.json",
@@ -59,6 +63,10 @@
     {
       "path": "content/mods/emi.json",
       "sha1": "f169010bd97401630fd89289be38ba6198f7fc20"
+    },
+    {
+      "path": "content/mods/environmental.json",
+      "sha1": "c66c362e409261e0ae785bb2d15c23e99ef1814b"
     },
     {
       "path": "content/mods/experience-obliterator.json",

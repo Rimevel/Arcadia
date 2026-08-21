@@ -1,11 +1,12 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 50 mods (8 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 52 mods (8 dependencies)
 
 ## Contents
 
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.7`
+- [Atmospheric](https://modrinth.com/project/atmospheric) `7.0.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Blur+](https://modrinth.com/project/blur-plus) `6.3.1+1.21.1-neoforge`
@@ -15,6 +16,7 @@
 - [Cook's Collection](https://modrinth.com/project/cooks-collection) `0.5.6`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- [Environmental](https://modrinth.com/project/environmental) `5.0.1`
 - Experience Obliterator `Experience Obliterator Neoforge 1.21.1 - 1.0.1` (curseforge)
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.3`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
