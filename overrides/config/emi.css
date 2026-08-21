@@ -24,7 +24,7 @@
 	/**
 	 * Which sidebar should be searched using the search bar.
 	 */
-	search-sidebar: right;
+	search-sidebar: left;
 
 	/**
 	 * Whether normal search queries should include the tooltip.
@@ -46,12 +46,12 @@
 	/**
 	 * Which action should be performed when clicking the recipe book.
 	 */
-	recipe-book-action: toggle-craftables;
+	recipe-book-action: toggle-visibility;
 
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: right;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: workstation, craftables, favorites;
+	left-sidebar-pages: index, craftables, favorites;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -202,7 +202,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index;
+	right-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the right sidebar
@@ -430,7 +430,7 @@
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
 	 */
-	copy-recipe-id: "key.keyboard.unknown";
+	copy-recipe-id: "key.keyboard.semicolon";
 
 	/**
 	 * In edit mode, hide the hovered stack
