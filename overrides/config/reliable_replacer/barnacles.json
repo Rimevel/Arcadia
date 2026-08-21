@@ -1,0 +1,74 @@
+[
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "down": "true"
+        },
+        "output_state_properties": {
+            "facing": "up"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    },
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "up": "true"
+        },
+        "output_state_properties": {
+            "facing": "down"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    },
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "west": "true"
+        },
+        "output_state_properties": {
+            "facing": "east"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    },
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "east": "true"
+        },
+        "output_state_properties": {
+            "facing": "west"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    },
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "north": "true"
+        },
+        "output_state_properties": {
+            "facing": "south"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    },
+    {
+        "inputs": ["supplementaries:barnacles"],
+        "output": "spawn:barnacle",
+        "state_properties": {
+            "south": "true"
+        },
+        "output_state_properties": {
+            "facing": "north"
+        },
+        "randomize_properties": ["barnacles"],
+        "keep_states": true
+    }
+]

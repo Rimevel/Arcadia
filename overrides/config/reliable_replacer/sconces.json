@@ -1,0 +1,10 @@
+[
+    {
+        "inputs": ["nomansland:sconce_torch"],
+        "output": "supplementaries:sconce"
+    },
+    {
+        "inputs": ["nomansland:sconce_soul_torch"],
+        "output": "supplementaries:sconce_soul"
+    }
+]

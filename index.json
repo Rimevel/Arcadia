@@ -505,8 +505,24 @@
       "sha1": "1133f4e856244f84d12c590f7672524cd4f98cb4"
     },
     {
+      "path": "overrides/config/reliable_replacer/barnacles.json",
+      "sha1": "b855cfa2c647b62f5d4ca5f826761f3c563e8728"
+    },
+    {
+      "path": "overrides/config/reliable_replacer/cobblestone_bricks.json",
+      "sha1": "95be6cb769a11230ca39ea67cc3761eb9cc963da"
+    },
+    {
       "path": "overrides/config/reliable_replacer/example_rules.json.disabled",
       "sha1": "1f9bf65ba5406180239d9a82a9b6b5c6e95e46ba"
+    },
+    {
+      "path": "overrides/config/reliable_replacer/sconces.json",
+      "sha1": "6426028136c223a5870bf458f605ad4209c6dc18"
+    },
+    {
+      "path": "overrides/config/reliable_replacer/swapper.json",
+      "sha1": "90f90af2c9542d2b6bcfd0b0c9e8a90237a82e48"
     },
     {
       "path": "overrides/config/remi/remi.json",
