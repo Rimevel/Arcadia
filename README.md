@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 41 mods (11 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 50 mods (8 dependencies)
 
 ## Contents
 
@@ -10,36 +10,45 @@
 - [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
 - [Blur+](https://modrinth.com/project/blur-plus) `6.3.1+1.21.1-neoforge`
 - [Bobby ReNeoForged [Unofficial Port]](https://modrinth.com/project/bobby-reneoforged) `5.2.4-0.4+mc1.21`
+- [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
+- [Cook's Collection](https://modrinth.com/project/cooks-collection) `0.5.6`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
-- [Create: Metallurgy](https://modrinth.com/project/create-metallurgy) `1.0.3-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - Experience Obliterator `Experience Obliterator Neoforge 1.21.1 - 1.0.1` (curseforge)
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.3`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
+- [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.0+1.21.1-neoforge`
+- [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.3`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.403`
 - [keybindjs](https://modrinth.com/project/keybindjs) `2101-1.0.1`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.368`
 - [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
-- KubeLoader `kubeloader-21-0.1.0-Alpha-4-sources.jar` (curseforge)
-- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.36-neoforge`
+- [KubeLoader](https://modrinth.com/project/kubeloader) `21-0.1.0-Alpha-3`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.21.1-2.2.36.a-neoforge`
 - [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.21.1-3.7.0+neoforge`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.3.1-1.21.1`
 - [Mod Menu (NeoForge Edition)](https://modrinth.com/project/mod-menu-(neoforge-edition)) `1.0.2`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
 - [Modest Magic](https://modrinth.com/project/modest-magic) `1.3.1-1.21.1-neoforge`
+- [Modest Mining](https://modrinth.com/project/modest-mining) `1.4.1-1.21.1`
 - [Modulation](https://modrinth.com/project/modulation) `2.2.5-1.21.1-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.4.1`
 - [Multiblocked2](https://modrinth.com/project/multiblocked2) `mc1.21.1-21.0.11-neoforge`
 - [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `1.21.1-1.5.6`
+- [Neapolitan](https://modrinth.com/project/neapolitan) `6.0.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.5.12`
 - [Packdev Toolkit](https://modrinth.com/project/packdev-toolkit) `1.3.4-1.21.1-neoforge`
 - [ProbeJS](https://modrinth.com/project/probejs) `8.0.3`
+- [Pufferfish's Attributes](https://modrinth.com/project/attributes) `0.8.3`
 - [Quark](https://modrinth.com/project/quark) `4.1-482`
-- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.2.0-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.6.1-1.21.1-neoforge`
+- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `5.0.1-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.6.2-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.1.5-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.12.1-1.21.1-neoforge`
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.7.0-neoforge-1.21.1`
+- [Renourished Delight](https://modrinth.com/project/renourisheddelight) `1.21.1_2.3.6-release`
+- [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-beta.1-neoforge`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.7`
 - [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.12.6`

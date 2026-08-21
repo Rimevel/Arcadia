@@ -1,0 +1,23 @@
+{
+  "name": "Renourished Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YDWv8k6N",
+      "slug": "renourisheddelight",
+      "versionId": "7qM69ogm",
+      "versionNumber": "1.21.1_2.3.6-release",
+      "filename": "renourisheddelight-1.21.1_2.3.6-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YDWv8k6N/versions/7qM69ogm/renourisheddelight-1.21.1_2.3.6-release.jar",
+      "sha1": "fd91a1cb77bcb0c3e3d74239c14d7edebe487e4f",
+      "sha512": "f23d663c7449a3ab15a3ebcbd6c700753e6c5359b8537bc58b7a074f1c01febcdb5d524b5c932ca88bffb01cdc28d294440ff9fa5d5bfd5fe0f25d6adeec4b18",
+      "fileSize": 171876
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "B1CBVXHX",
       "slug": "ldlib",
-      "versionId": "9u3IHPUb",
-      "versionNumber": "mc1.21.1-2.2.36-neoforge",
-      "filename": "ldlib2-neoforge-1.21.1-2.2.36-all.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/B1CBVXHX/versions/9u3IHPUb/ldlib2-neoforge-1.21.1-2.2.36-all.jar",
-      "sha1": "6ac445f70fbb374caf6b8aaf6699aa551f8b66f8",
-      "sha512": "dae01837a89677b8703e8f442d3c67962f117a89bdbfcfd692ad58d92e84b0b83c6e57d907510a8e10bc785bbf1e05154590234821e11698d4ce3392fe3f9e87",
-      "fileSize": 7085505
+      "versionId": "DwvxthOm",
+      "versionNumber": "mc1.21.1-2.2.36.a-neoforge",
+      "filename": "ldlib2-neoforge-1.21.1-2.2.36.a-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B1CBVXHX/versions/DwvxthOm/ldlib2-neoforge-1.21.1-2.2.36.a-all.jar",
+      "sha1": "2fee2665556884d2f34428cd34dd40d5e346f369",
+      "sha512": "3b335ed2a28f0c60650d2b0b0c20377f56f692f00048cc7517a535c1ad3cab68fc3a433b34f32d6c57ec99bc0db5beee03d17c91ece2acc75c52e53182476669",
+      "fileSize": 7085609
     }
   },
   "dependents": [],

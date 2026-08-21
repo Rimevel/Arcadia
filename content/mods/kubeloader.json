@@ -3,17 +3,18 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "1205072",
+    "modrinth": {
+      "id": "Q6dKnkVg",
       "slug": "kubeloader",
-      "versionId": "8624013",
-      "versionNumber": "kubeloader-21-0.1.0-Alpha-4-sources.jar",
-      "filename": "kubeloader-21-0.1.0-Alpha-4.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8624/13/kubeloader-21-0.1.0-Alpha-4.jar",
-      "sha1": "83fc64a555e5f9345dd55d30fbe5d62c75f6ed65",
-      "fileSize": 317758
+      "versionId": "vevm54RM",
+      "versionNumber": "21-0.1.0-Alpha-3",
+      "filename": "kubeloader-21-0.1.0-Alpha-3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q6dKnkVg/versions/vevm54RM/kubeloader-21-0.1.0-Alpha-3.jar",
+      "sha1": "f355e6dcf7ba87b4967fb20df5f0a2d274d59928",
+      "sha512": "0829d37b06022cc0acac3065602d442add2b64b2aa9627f930689e86f26aeb1eba166dc51ff166e9d44862395ccaeb1416308c86b001a332a9d46111715d26c0",
+      "fileSize": 317757
     }
   },
   "dependents": [],

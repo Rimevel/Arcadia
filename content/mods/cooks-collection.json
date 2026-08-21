@@ -1,0 +1,23 @@
+{
+  "name": "Cook's Collection",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QC7N8ljN",
+      "slug": "cooks-collection",
+      "versionId": "hH87KN4v",
+      "versionNumber": "0.5.6",
+      "filename": "cookscollection-0.5.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QC7N8ljN/versions/hH87KN4v/cookscollection-0.5.6.jar",
+      "sha1": "6145977dbfaf81cf1cac3fec659642513ceb970e",
+      "sha512": "66e680eda814ff3a6c666991f02907eafb6bf485db285416eb7767e5900b1b5a2f78fd9f3ad4aa6876bb0c44b924a31547516c2a8c0c3fc445e5f90369a1d5d8",
+      "fileSize": 391023
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

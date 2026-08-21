@@ -1,0 +1,23 @@
+{
+  "name": "Just Enough Effect Descriptions (JEED)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EO27GKs1",
+      "slug": "just-enough-effect-descriptions-jeed",
+      "versionId": "4V5Ugwuo",
+      "versionNumber": "1.21-2.3.3",
+      "filename": "jeed-1.21-2.3.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EO27GKs1/versions/4V5Ugwuo/jeed-1.21-2.3.3.jar",
+      "sha1": "fc7c50a12243aad12df0a184f8dffb6cb3e29cf1",
+      "sha512": "489776211f397b31e8ac74ef3a813e79ddfa5b4a51e04aa70563a32afd98d1117dbde40189f9de101c7f85374932a6c7cf84f22543f6249654032f3970751fd5",
+      "fileSize": 171095
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

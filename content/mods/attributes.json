@@ -1,0 +1,23 @@
+{
+  "name": "Pufferfish's Attributes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FCFcFw09",
+      "slug": "attributes",
+      "versionId": "ZySEqrUb",
+      "versionNumber": "0.8.3",
+      "filename": "puffish_attributes-0.8.3-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FCFcFw09/versions/ZySEqrUb/puffish_attributes-0.8.3-1.21-neoforge.jar",
+      "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
+      "sha512": "e92d8a653b8c8e0b481aac1722ac5da9ca9174e61b3607e1b28c714e55c6b6399f68592bd227576a5a81dce251776a3221b5fc7e1b1446f17fa4795d9c1b449a",
+      "fileSize": 235542
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
