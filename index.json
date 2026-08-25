@@ -946,7 +946,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/rope.js",
-      "sha1": "fe9b7fa109c1e32778d6a7239368720fcaea4d54"
+      "sha1": "684849b5acbd8242077875bf3e3c63375b7cdc78"
     },
     {
       "path": "overrides/kubejs/server_scripts/tags/heat_sources.js",

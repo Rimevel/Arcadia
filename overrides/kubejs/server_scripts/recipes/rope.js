@@ -18,7 +18,7 @@ ServerEvents.recipes((event) => {
     event.remove({ output: "quark:rope" });
     event.remove({ output: "farmersdelight:rope" });
 
-    event.shaped("supplementaries:rope", ["A", "A"], {
+    event.shaped("supplementaries:rope", ["A", "A", "A"], {
         A: "farmersdelight:straw",
     });
 
