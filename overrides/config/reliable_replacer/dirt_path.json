@@ -1,0 +1,4 @@
+{
+    "inputs": ["nomansland:dirt_path"],
+    "output": "environmental:dirt_path"
+}

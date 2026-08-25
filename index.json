@@ -589,6 +589,14 @@
       "sha1": "95be6cb769a11230ca39ea67cc3761eb9cc963da"
     },
     {
+      "path": "overrides/config/reliable_replacer/dirt_path.json",
+      "sha1": "3c96a6b37cc3815cfe717bf00f82a3bb25a760af"
+    },
+    {
+      "path": "overrides/config/reliable_replacer/duckweed.json",
+      "sha1": "f4a8f349d90227a4a9e2e669b963cd1ae898e589"
+    },
+    {
       "path": "overrides/config/reliable_replacer/example_rules.json.disabled",
       "sha1": "1f9bf65ba5406180239d9a82a9b6b5c6e95e46ba"
     },
