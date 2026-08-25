@@ -949,6 +949,10 @@
       "sha1": "684849b5acbd8242077875bf3e3c63375b7cdc78"
     },
     {
+      "path": "overrides/kubejs/server_scripts/tags/bellows_tickable.js",
+      "sha1": "895267281f118716b1f406bc1097a10911677f3f"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/tags/heat_sources.js",
       "sha1": "f762678e8b74a627c3f5082db5f0a9b8fe689dc6"
     },
