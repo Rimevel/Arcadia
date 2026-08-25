@@ -1,0 +1,28 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": [
+      "minecraft:mossy_cobblestone_from_vine",
+      "nomansland:building/mossy_cobblestone_from_others",
+      "caverns_and_chasms:mossy_cobblestone_bricks_from_vine",
+      "caverns_and_chasms:mossy_cobblestone_bricks",
+      "caverns_and_chasms:mossy_cobblestone_tiles_from_vine",
+      "caverns_and_chasms:mossy_cobblestone_tiles",
+      "minecraft:mossy_stone_bricks_from_vine",
+      "nomansland:building/mossy_stone_bricks_from_others",
+      "nomansland:building/mossy_coarse_bricks_from_vine",
+      "nomansland:building/mossy_coarse_bricks_from_others",
+      "quark:building/crafting/furnaces/blackstone_blast_furnace",
+      "quark:building/crafting/furnaces/deepslate_blast_furnace",
+      "quark:building/crafting/furnaces/blackstone_minecart",
+      "quark:building/crafting/furnaces/deepslate_minecart",
+      "minecraft:soul_torch",
+      "minecraft:smoker",
+      "quark:building/crafting/furnaces/blackstone_smoker",
+      "quark:building/crafting/furnaces/deepslate_smoker",
+      "minecraft:soul_lantern",
+      "supplementaries:sconce_soul",
+      "minecraft:soul_campfire"
+    ]
+  }
+]

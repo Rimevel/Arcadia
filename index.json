@@ -9,6 +9,10 @@
       "sha1": "72aef9c6d712ade7b9ee8c34c48174fc3781b9c1"
     },
     {
+      "path": "content/mods/another-furniture.json",
+      "sha1": "ff6d5a11e86b0070064b8728d2afeeb7e0526f54"
+    },
+    {
       "path": "content/mods/architectury-api.json",
       "sha1": "c694e8fd7b9c46a6e9988003cddc264e88cb80dc"
     },
@@ -25,12 +29,16 @@
       "sha1": "20a08bec4d088eee073c37fcd5d68927f0e2206a"
     },
     {
+      "path": "content/mods/better-modlist.json",
+      "sha1": "8f9c4c92b2baf617e29da95c4d8f4bea09f5445c"
+    },
+    {
       "path": "content/mods/biolith.json",
       "sha1": "2d52ed63e9e07c9881a61ee356ff5ae58d3aa010"
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "81618a78b0092e3ef29c1968701703b636312c16"
+      "sha1": "db334757f6aabaf680814311590d6470172a822d"
     },
     {
       "path": "content/mods/blur-plus.json",
@@ -46,7 +54,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "f2bcfb2bbb994e9c03dc6437e9fa254a46882de2"
+      "sha1": "0ca49a00778af8c042d625e417974d57aaa6ef07"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -55,6 +63,10 @@
     {
       "path": "content/mods/cooks-collection.json",
       "sha1": "26683342dfed14b9d5a5c614136caeda231f7ad5"
+    },
+    {
+      "path": "content/mods/crafting-mats.json",
+      "sha1": "15d7e375a724af1baf083e5feafc52f9aed2cf6d"
     },
     {
       "path": "content/mods/create.json",
@@ -69,6 +81,10 @@
       "sha1": "c66c362e409261e0ae785bb2d15c23e99ef1814b"
     },
     {
+      "path": "content/mods/every-compat.json",
+      "sha1": "db643a1f3a616c60059208d6a564bf2dd547bc4f"
+    },
+    {
       "path": "content/mods/experience-obliterator.json",
       "sha1": "c54efcec7a1cad1ba3fa73b5d877c7ac89c440d3"
     },
@@ -79,6 +95,10 @@
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "ba21db43af58db9abecf282b62e4717a7dd54ede"
     },
     {
       "path": "content/mods/item-descriptions.json",
@@ -125,10 +145,6 @@
       "sha1": "23065ee4351a8ef1dbad6fdfb2e7dabaced62424"
     },
     {
-      "path": "content/mods/mod-menu--neoforge-edition-.json",
-      "sha1": "91934daef08f87e0276ca13f6c22be61b04493f6"
-    },
-    {
       "path": "content/mods/modernfix.json",
       "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
     },
@@ -146,7 +162,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "44335c088121fe5cce2af5ffa2c3fe803dc85420"
+      "sha1": "0b54ccf75e7cb133c0d003dabc61f2ef8782d877"
     },
     {
       "path": "content/mods/multiblocked2.json",
@@ -198,23 +214,31 @@
     },
     {
       "path": "content/mods/renourisheddelight.json",
-      "sha1": "46557e72a283e196df1b6245338b83f77ee422c5"
+      "sha1": "8d58d39a2fa204df7ef543d5449de247f855a6aa"
     },
     {
       "path": "content/mods/rhino.json",
       "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
     },
     {
+      "path": "content/mods/roxy.json",
+      "sha1": "c369648803d2ccb43cd56d5ebb47c94b0a70addc"
+    },
+    {
       "path": "content/mods/sodium.json",
-      "sha1": "25639402e48bacb96079bc3b6cc2228700a1f65a"
+      "sha1": "d5b9e5d44bb75fd87b3192c51f423857d57bfa6b"
     },
     {
       "path": "content/mods/spawn-mod.json",
       "sha1": "3ec4d3e65f7c9536f904c39cc32be5257a306714"
     },
     {
+      "path": "content/mods/stony-cliffs-are-cool.json",
+      "sha1": "ebdc8ab4aaf57201bfcb244def5e301130b64d58"
+    },
+    {
       "path": "content/mods/streams-reflowing.json",
-      "sha1": "ce089f5928c104aa66bd31d3d8aab798583b0c95"
+      "sha1": "359a27f20791addee319a9d63324c9fd5a3cf733"
     },
     {
       "path": "content/mods/structurify.json",
@@ -227,6 +251,18 @@
     {
       "path": "content/mods/teallib.json",
       "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
+    },
+    {
+      "path": "content/mods/upgrade-aquatic.json",
+      "sha1": "b0a7344252e7e781db83e81933c334cc5cc621fa"
+    },
+    {
+      "path": "content/mods/voxy-worldgen.json",
+      "sha1": "3d5d190fc9dbe968965d738de57cf38ae7ffb47f"
+    },
+    {
+      "path": "content/mods/voxy.json",
+      "sha1": "f8c4bc6282368ee54ee124ae5b30ae35361fd0c9"
     },
     {
       "path": "content/mods/yacl.json",
@@ -266,7 +302,7 @@
     },
     {
       "path": "overrides/config/betterclouds-v1.json",
-      "sha1": "e99aab0bec7f94b02f551617d6566a2b0ffbc124"
+      "sha1": "e1fcb377905903d2e4ef7e06dbccfe529064d539"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
@@ -298,7 +334,7 @@
     },
     {
       "path": "overrides/config/clutternomore/startup.toml",
-      "sha1": "8bd4b3f874cfa179d5345b18cfbe3612ae3f0a3f"
+      "sha1": "7fdd4dc05c7ef1c9cea9d59bf265858a5b5e7bab"
     },
     {
       "path": "overrides/config/cookscollection-common.toml",
@@ -321,8 +357,36 @@
       "sha1": "8a9d643e138d849417e32f9bf202c48b1664a31f"
     },
     {
+      "path": "overrides/config/environmental-client.toml",
+      "sha1": "3a0a8852659f00a2246611bec92dc6e15af0eeca"
+    },
+    {
+      "path": "overrides/config/environmental-common.toml",
+      "sha1": "a02eaf5f3bed5c2f691beb547bc78045eb30c0ab"
+    },
+    {
+      "path": "overrides/config/everycomp-client.toml",
+      "sha1": "0a85066c730274e77f1e213c9d1020da72a0ee33"
+    },
+    {
+      "path": "overrides/config/everycomp-common.toml",
+      "sha1": "6918a0ecb2afadb4f20dd3f20215023546fb5965"
+    },
+    {
+      "path": "overrides/config/everycomp-entries.toml",
+      "sha1": "c037a2f8a9c5750f834a202e4cbeb64ac713fa54"
+    },
+    {
+      "path": "overrides/config/everycomp-hazardous.toml",
+      "sha1": "8e812312458a831ef26b130e662c102aa6ef5578"
+    },
+    {
       "path": "overrides/config/experience_obliterator.json",
       "sha1": "8c0c8c80bcdd8c7783e71669ccb6635ff5e1f528"
+    },
+    {
+      "path": "overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "844f677968f5c5029b9760bd8040342b4e89cd12"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -346,7 +410,7 @@
     },
     {
       "path": "overrides/config/item_descriptions.toml",
-      "sha1": "1146b91da18ea7261ec7ec462e89ae7bbabcc3d4"
+      "sha1": "e00d2771562fdb03079cd66618b99b48df69bcef"
     },
     {
       "path": "overrides/config/jeed-client.toml",
@@ -486,7 +550,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "0f5f2460161c588ca4f911a63d235c1533283788"
+      "sha1": "422e02db4d489982249ece719bd753c4222f4465"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -497,12 +561,16 @@
       "sha1": "559fa938ff5b7ad92626b60a839b82954393b921"
     },
     {
+      "path": "overrides/config/reliable_recipes/generated_removals.json",
+      "sha1": "1d9bab2984d0d0eb9d35ad5ec72c8169c32103ae"
+    },
+    {
       "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
       "sha1": "0a43e209f514da5904521394375e8ea1ec0d890d"
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "7aa1f1d0a984bf5618482ad5199fec9f2dc29c58"
+      "sha1": "e690f223a333db75a609e97ec8ef7c606e8cac32"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -537,6 +605,14 @@
       "sha1": "21f3824d0791d4dc2b0a204b72ef0b9227b1fb9f"
     },
     {
+      "path": "overrides/config/renourisheddelight/client.json5",
+      "sha1": "bb5f666f850a06df9d6c19ad06c84fac1a3475c8"
+    },
+    {
+      "path": "overrides/config/renourisheddelight/common.json5",
+      "sha1": "e4f73cc3f3b3b0cc9f3d63e329925297cd556d2b"
+    },
+    {
       "path": "overrides/config/sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
     },
@@ -554,11 +630,11 @@
     },
     {
       "path": "overrides/config/streamsreflowing-client.toml",
-      "sha1": "80b49806152181482cfd4865397067a162f8d5b9"
+      "sha1": "c17d42cb8f1af9eef33c9ebfdce7c2ad7868618b"
     },
     {
       "path": "overrides/config/streamsreflowing-common.toml",
-      "sha1": "d84b69c4c92973975c2b9845bb01a8501ea84b3d"
+      "sha1": "8706a3d215890f548a2a325213d94b912749d9b4"
     },
     {
       "path": "overrides/config/streamsreflowing/bank_features/GUIDE.md",
@@ -787,6 +863,14 @@
     {
       "path": "overrides/config/teallib-client.toml",
       "sha1": "bb026b78d495735f20511332ed49dc4bf654c6a9"
+    },
+    {
+      "path": "overrides/config/upgrade_aquatic-client.toml",
+      "sha1": "43c1b58adc21737f358e35c6ef1b8f8fd0e5f7c9"
+    },
+    {
+      "path": "overrides/config/upgrade_aquatic-common.toml",
+      "sha1": "b99d31d3dd6c46cb6098546fb6bc43d3edeb5b57"
     },
     {
       "path": "overrides/config/yacl.json5",

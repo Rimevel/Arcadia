@@ -8,16 +8,18 @@
     "modrinth": {
       "id": "AANobbMI",
       "slug": "sodium",
-      "versionId": "iw5APcWy",
-      "versionNumber": "mc1.21.1-0.8.12-beta.1-neoforge",
-      "filename": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/iw5APcWy/sodium-neoforge-0.8.12-beta.1%2Bmc1.21.1.jar",
-      "sha1": "5f24c8cf07e40581210c020b54106e175f793e85",
-      "sha512": "31d3244c06db15f3b816e09b25a62d48f52c3dcf326932e00e923152926696037742c7fe02aba74109f8a67cbc4ef71423b8e60e274fcf8a11f2fd4e8171422f",
-      "fileSize": 1291422
+      "versionId": "jfHZ5pyN",
+      "versionNumber": "mc1.21.1-0.8.13-beta.2-neoforge",
+      "filename": "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar",
+      "sha1": "af0f6e28638b1e6696d0501dd8496d230e9519ae",
+      "sha512": "6e9273862fb3397b5abea7ad37a65c3cd6d6bcb5cc06634d2b62b49999c00dac8972e4600e1d5b3c3936d0a92ccfad8ed4d04ed065595797d3c1e559f20aa08c",
+      "fileSize": 1292887
     }
   },
   "dependents": [
+    "Ap78bKTp",
+    "fxxUqruK",
     "sBwZemk4"
   ],
   "clientSide": "required",

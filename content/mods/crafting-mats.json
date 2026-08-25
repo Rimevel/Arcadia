@@ -1,0 +1,23 @@
+{
+  "name": "Crafting Mats",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jygl7wra",
+      "slug": "crafting-mats",
+      "versionId": "JWK10PD7",
+      "versionNumber": "1.1.0+neoforge-1.21.1",
+      "filename": "crafting-mats-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jygl7wra/versions/JWK10PD7/crafting-mats-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "5c030a2d91fd19baa12721a30003ad9b6a69b4fc",
+      "sha512": "2a5f85c871c2f30ad0737064c5ce9b59020fa73bcd1f213fc696d66ff60d24bf0b088d5659067c37d0c29b081cf2888b1188f1e93b16a80b40cf4b15557a08f9",
+      "fileSize": 254480
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
