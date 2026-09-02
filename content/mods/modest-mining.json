@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "5QcDoykP",
       "slug": "modest-mining",
-      "versionId": "hrl7OOnd",
-      "versionNumber": "1.4.1-1.21.1",
-      "filename": "modestmining-1.21.1-1.4.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5QcDoykP/versions/hrl7OOnd/modestmining-1.21.1-1.4.1.jar",
-      "sha1": "63b8009bfa07dc76c945fe3e930f0ebf422f2361",
-      "sha512": "973ced45b0c8357a0e57cf5bf73c6e51d6d346dc2f8509e4a35c79ab12c1c2cbade073737072f4857a4a9680f27c5e86e187fa49f2c4bc821621e0ee9e9743fa",
-      "fileSize": 1237308
+      "versionId": "oPlois6e",
+      "versionNumber": "1.4.2-1.21.1",
+      "filename": "modestmining-1.21.1-1.4.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5QcDoykP/versions/oPlois6e/modestmining-1.21.1-1.4.2.jar",
+      "sha1": "3d78522eab0477fc5bd7b46b9442beaa6ddccb38",
+      "sha512": "139112edca178834ff851716fcc7b5c38e4d62264c1c69ceb76f52d22f7b4c26c3199bff9432702852b13c7a1ed22561ef78032e28663cf4a4a60d10391eab39",
+      "fileSize": 1236908
     }
   },
   "dependents": [],
