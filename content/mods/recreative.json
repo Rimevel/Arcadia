@@ -1,0 +1,23 @@
+{
+  "name": "Recreative",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EBWdtRFr",
+      "slug": "recreative",
+      "versionId": "BOfVY3nQ",
+      "versionNumber": "2.1.1-1.21.1-neoforge",
+      "filename": "recreative-neoforge-1.21.1-2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EBWdtRFr/versions/BOfVY3nQ/recreative-neoforge-1.21.1-2.1.1.jar",
+      "sha1": "38c9589944ec37b1b3ae90a9ab90ea9b9f3afb71",
+      "sha512": "ff25ddb123c62b7c9515ecfb9fa465ddf45a8777d967183a3b10c774dc681e5db3a2eb04cfdd93e3b0267c084241fd2b0c1c2b896bf6b345c95f7537b3a923c3",
+      "fileSize": 189834
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
