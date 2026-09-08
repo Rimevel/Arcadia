@@ -22,7 +22,11 @@
       "quark:building/crafting/furnaces/deepslate_smoker",
       "minecraft:soul_lantern",
       "supplementaries:sconce_soul",
-      "minecraft:soul_campfire"
+      "minecraft:soul_campfire",
+      "nomansland:mushroom_stew",
+      "minecraft:rabbit_stew_from_brown_mushroom",
+      "nomansland:rabbit_stew_from_red_mushroom",
+      "minecraft:beetroot_soup"
     ]
   }
 ]

@@ -1,0 +1,23 @@
+{
+  "name": "Sable: Floaters",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kjqs1O8F",
+      "slug": "sable-floaters",
+      "versionId": "6xKshAWI",
+      "versionNumber": "1.0.0",
+      "filename": "sablefloaters-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kjqs1O8F/versions/6xKshAWI/sablefloaters-1.0.0.jar",
+      "sha1": "7f1f4014dc10bbd58ed84af8357558225b748268",
+      "sha512": "f71d3d9bc69a8a945b908aafaed8891d857968ff2f3d11704479837335beed1d8092276817d918a741a702d6c45ade043c294535803e0ddd1cb8409d542a978b",
+      "fileSize": 32777
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

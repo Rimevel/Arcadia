@@ -22,7 +22,7 @@ streamBubbles = 2
 #  LOWER = stricter cap (fewer particles, smoother).  HIGHER = effectively no limit.
 #Perf: CLIENT FPS -- the main particle cost dial. Lower = cheaper.
 #World: safe on an existing world -- applies the moment you save, everywhere.
-# Default: 3000
+# Default: 1000
 # Range: 0 ~ 100000
 maxStreamParticlesPerTick = 3000
 #

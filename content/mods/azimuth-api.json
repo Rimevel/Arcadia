@@ -1,0 +1,25 @@
+{
+  "name": "Azimuth API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RpH8tmT1",
+      "slug": "azimuth-api",
+      "versionId": "82WgkpfK",
+      "versionNumber": "1.4.8",
+      "filename": "azimuth-1.4.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RpH8tmT1/versions/82WgkpfK/azimuth-1.4.8.jar",
+      "sha1": "329b649c23a84dcbcbc2172df38a5d87afe94cf1",
+      "sha512": "9faf97c9b6eb38bf3187977e660e89530c2a6e862f50380b4628e839d89cee27f1b32ff94d1283200796d816d3325c2dbd00a0d3f49898a50c3f235e0b02038c",
+      "fileSize": 142919
+    }
+  },
+  "dependents": [
+    "T8bvmqVZ"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

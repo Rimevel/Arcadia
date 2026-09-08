@@ -1,0 +1,25 @@
+{
+  "name": "KilaGraph",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zZO0N3W6",
+      "slug": "kilagraph",
+      "versionId": "C4W2SGIN",
+      "versionNumber": "mc1.21.1-21.1.0.13-neoforge",
+      "filename": "kilagraph-neoforge-1.21.1-21.1.0.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zZO0N3W6/versions/C4W2SGIN/kilagraph-neoforge-1.21.1-21.1.0.13.jar",
+      "sha1": "4a49c2aada1417646e93da28ca112ef02d73dc42",
+      "sha512": "cd6a5e8ca53e0b56215691c23692a17f521cbc29beec854e08a1817786922ac00ff8083e4f9ab6da69e21008f229877c7e5ef9b1b8a89ca0babcf1e6a4a10f7a",
+      "fileSize": 2260051
+    }
+  },
+  "dependents": [
+    "R2gjKEpa"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

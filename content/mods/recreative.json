@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "EBWdtRFr",
       "slug": "recreative",
-      "versionId": "BOfVY3nQ",
-      "versionNumber": "2.1.1-1.21.1-neoforge",
-      "filename": "recreative-neoforge-1.21.1-2.1.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/EBWdtRFr/versions/BOfVY3nQ/recreative-neoforge-1.21.1-2.1.1.jar",
-      "sha1": "38c9589944ec37b1b3ae90a9ab90ea9b9f3afb71",
-      "sha512": "ff25ddb123c62b7c9515ecfb9fa465ddf45a8777d967183a3b10c774dc681e5db3a2eb04cfdd93e3b0267c084241fd2b0c1c2b896bf6b345c95f7537b3a923c3",
-      "fileSize": 189834
+      "versionId": "F8vezYh1",
+      "versionNumber": "2.2.2-1.21.1-neoforge",
+      "filename": "recreative-neoforge-1.21.1-2.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EBWdtRFr/versions/F8vezYh1/recreative-neoforge-1.21.1-2.2.2.jar",
+      "sha1": "bf825d64fbcc6b020712afecc89bb44ef4c8325e",
+      "sha512": "5f6842779f426454639dfda60e01e06d69c1caa7d4447315416d7656caa114a18c9495daf0ad365e9327c396dae11170ed2f669a4be43ae15c610adf14788f8d",
+      "fileSize": 199373
     }
   },
   "dependents": [],
