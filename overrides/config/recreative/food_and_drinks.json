@@ -1,0 +1,505 @@
+[
+  {
+    "action": "custom_tab",
+    "tab": [
+      "pack:meals_and_feasts"
+    ],
+    "name": "Meals \u0026 Feasts",
+    "icon": "farmersdelight:pasta_with_meatballs",
+    "remove_items": [],
+    "add_items": [
+      "spawn:cooked_clam",
+      "farmersdelight:fried_egg",
+      "farmersdelight:egg_sandwich",
+      "farmersdelight:chicken_sandwich",
+      "farmersdelight:bacon_sandwich",
+      "spawn:tuna_sandwich",
+      "farmersdelight:hamburger",
+      "spawn:steamed_clams",
+      "farmersdelight:mutton_wrap",
+      "farmersdelight:stuffed_potato",
+      "farmersdelight:barbecue_stick",
+      "farmersdelight:fruit_salad",
+      "farmersdelight:mixed_salad",
+      "farmersdelight:nether_salad",
+      "farmersdelight:gleaming_salad_block",
+      "farmersdelight:gleaming_salad",
+      "farmersdelight:cabbage_rolls",
+      "farmersdelight:dumplings",
+      "farmersdelight:kelp_roll",
+      "farmersdelight:kelp_roll_slice",
+      "spawn:tuna_roll",
+      "farmersdelight:cod_roll",
+      "farmersdelight:salmon_roll",
+      "spawn:bluefish_roll",
+      "spawn:herring_roll",
+      "farmersdelight:rice_roll_medley_block",
+      "minecraft:mushroom_stew",
+      "farmersdelight:beef_stew",
+      "minecraft:rabbit_stew",
+      "farmersdelight:fish_stew",
+      "neapolitan:adzuki_stew",
+      "farmersdelight:baked_cod_stew",
+      "nomansland:pot_of_witch_stew",
+      "nomansland:witch_stew",
+      "minecraft:beetroot_soup",
+      "farmersdelight:vegetable_soup",
+      "farmersdelight:pumpkin_soup",
+      "farmersdelight:chicken_soup",
+      "farmersdelight:noodle_soup",
+      "farmersdelight:onion_soup",
+      "spawn:clam_chowder",
+      "spawn:crab_boil_block",
+      "spawn:crab_boil",
+      "farmersdelight:cooked_rice",
+      "farmersdelight:fried_rice",
+      "farmersdelight:mushroom_rice",
+      "farmersdelight:roasted_mutton_chops",
+      "farmersdelight:steak_and_potatoes",
+      "farmersdelight:honey_glazed_ham_block",
+      "farmersdelight:honey_glazed_ham",
+      "farmersdelight:stuffed_pumpkin_block",
+      "farmersdelight:stuffed_pumpkin",
+      "cookscollection:fried_potato",
+      "farmersdelight:bacon_and_eggs",
+      "cookscollection:fish_and_chips",
+      "farmersdelight:ratatouille",
+      "farmersdelight:pasta_with_meatballs",
+      "farmersdelight:pasta_with_mutton_chop",
+      "farmersdelight:squid_ink_pasta",
+      "nomansland:pasta_with_pesto",
+      "nomansland:salmon_and_pesto_gnocchi",
+      "nomansland:seared_venison",
+      "nomansland:stallion_strips",
+      "nomansland:stallion_strip",
+      "farmersdelight:roast_chicken_block",
+      "farmersdelight:roast_chicken",
+      "farmersdelight:grilled_salmon",
+      "caverns_and_chasms:caviar",
+      "farmersdelight:dog_food",
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:saturation",
+              "duration": 7
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:night_vision",
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:fire_resistance",
+              "duration": 80
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:blindness"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:weakness",
+              "duration": 180
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:regeneration"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:jump_boost",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:poison",
+              "duration": 240
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:wither"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:water_breathing",
+              "duration": 180
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:levitation",
+              "duration": 60
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:hunger"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:invisibility",
+              "duration": 180
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:strength",
+              "duration": 140
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:slow_falling",
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:mining_fatigue",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:glowing"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:strength",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:fire_resistance",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:poison",
+              "duration": 200
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:nausea"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:water_breathing"
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "atmospheric:relief",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "atmospheric:persistence",
+              "duration": 300
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:speed",
+              "duration": 180
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "atmospheric:worsening",
+              "duration": 120
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:slowness",
+              "duration": 400
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:slowness",
+              "duration": 800
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:saturation",
+              "duration": 60
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:absorption",
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:blindness",
+              "duration": 200
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:saturation",
+              "duration": 20
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:hunger",
+              "duration": 1200
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:luck",
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:slowness",
+              "duration": 200
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:slowness",
+              "duration": 100
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:instant_health",
+              "duration": 20
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:resistance",
+              "duration": 200
+            }
+          ]
+        }
+      },
+      {
+        "item": "minecraft:suspicious_stew",
+        "components": {
+          "minecraft:suspicious_stew_effects": [
+            {
+              "id": "minecraft:resistance",
+              "duration": 100
+            }
+          ]
+        }
+      }
+    ],
+    "order": []
+  }
+]

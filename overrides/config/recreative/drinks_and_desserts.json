@@ -1,0 +1,41 @@
+[
+  {
+    "action": "custom_tab",
+    "tab": [
+      "pack:drinks_and_desserts"
+    ],
+    "name": "Drinks \u0026 Desserts",
+    "icon": "farmersdelight:glow_berry_custard",
+    "remove_items": [],
+    "add_items": [
+      "minecraft:potion",
+      "farmersdelight:milk_bottle",
+      "neapolitan:strawberry_banana_smoothie",
+      "atmospheric:aloe_gel_bottle",
+      "farmersdelight:hot_cocoa",
+      "create:builders_tea",
+      "cookscollection:lemonade",
+      "farmersdelight:apple_cider",
+      "farmersdelight:melon_juice",
+      "nomansland:pear_juice",
+      "farmersdelight:glow_berry_custard",
+      "neapolitan:vanilla_milkshake",
+      "neapolitan:chocolate_milkshake",
+      "neapolitan:strawberry_milkshake",
+      "neapolitan:banana_milkshake",
+      "neapolitan:mint_milkshake",
+      "neapolitan:adzuki_milkshake",
+      "neapolitan:vanilla_pudding",
+      "neapolitan:vanilla_ice_cream",
+      "neapolitan:chocolate_ice_cream",
+      "neapolitan:strawberry_ice_cream",
+      "neapolitan:banana_ice_cream",
+      "neapolitan:mint_ice_cream",
+      "neapolitan:adzuki_ice_cream",
+      "atmospheric:orange_sorbet",
+      "atmospheric:passion_fruit_sorbet",
+      "neapolitan:neapolitan_ice_cream"
+    ],
+    "order": []
+  }
+]
