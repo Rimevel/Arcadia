@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "sBwZemk4",
       "slug": "acedium-sodiumized",
-      "versionId": "FtbmoAMK",
-      "versionNumber": "0.4.1+mc1.21.1",
-      "filename": "acedium-0.4.1+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/sBwZemk4/versions/FtbmoAMK/acedium-0.4.1%2Bmc1.21.1.jar",
-      "sha1": "01b992484134ff8a39c296740c683f71b30d70b4",
-      "sha512": "3344e65d3bb9389dbe2f42d79775a2b828a90f929fd8d549507a105c1727263175bf53c747ba4b640c20c1e3f33944c454f16a5e0ca681eec6da2a177cd8e4c9",
-      "fileSize": 162923
+      "versionId": "S4wpnnLH",
+      "versionNumber": "0.4.2+mc1.21.1",
+      "filename": "acedium-0.4.2+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sBwZemk4/versions/S4wpnnLH/acedium-0.4.2%2Bmc1.21.1.jar",
+      "sha1": "4d814225a4f820f71cfae8ebc3293f93198c1bcb",
+      "sha512": "a7854996d89080cdaa1b352439b5de83b9d0125b3a0d7a6046ebe2070c23595723ec3cbf305961140cea97135ea5c22296115abeb8d076e415c96af5a922f81b",
+      "fileSize": 172368
     }
   },
   "dependents": [],

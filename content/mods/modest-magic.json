@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "sWRvoDiO",
       "slug": "modest-magic",
-      "versionId": "SHsXjbaD",
-      "versionNumber": "1.3.2-1.21.1-neoforge",
-      "filename": "modestmagic-neoforge-1.21.1-1.3.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/sWRvoDiO/versions/SHsXjbaD/modestmagic-neoforge-1.21.1-1.3.2.jar",
-      "sha1": "14314ea7b168c8bc4402b8e8a1e38cd36833ffd6",
-      "sha512": "fa7b0bcefef78009ceeab8f6ba432301f2461a1d674aced661fb752ef5115174d81829347ab4d66f54f13d7c2490545b8fe2bd2829422031f047673db27bdc56",
-      "fileSize": 427345
+      "versionId": "WHfVbddE",
+      "versionNumber": "1.4.0-1.21.1-neoforge",
+      "filename": "modestmagic-neoforge-1.21.1-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sWRvoDiO/versions/WHfVbddE/modestmagic-neoforge-1.21.1-1.4.0.jar",
+      "sha1": "7ed91f281313199ca3232e091aa3d16bf2c85449",
+      "sha512": "4e7eb5beb596217e91fad0d7a2f26844c4f3be69afde1f5ce57ecaaab7bf46ea26789f81c205a56547240b3cc4318a42fb791671596037edad4307570ad8d5f1",
+      "fileSize": 430479
     }
   },
   "dependents": [],

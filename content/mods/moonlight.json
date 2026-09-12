@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "twkfQtEc",
       "slug": "moonlight",
-      "versionId": "rfFr0vJC",
-      "versionNumber": "1.21.1-3.6.0",
-      "filename": "moonlight-1.21.1-3.6.0-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/rfFr0vJC/moonlight-1.21.1-3.6.0-neoforge.jar",
-      "sha1": "74e52977a0bcbc16eb41a6bff142c6e5f989654a",
-      "sha512": "7a46d0960b3ca3f5e76b26f4836d8224854c219070512b1240fc478d404913878420b3f806b2b852fafcc12177a8cdb8c526f72a3be79dbf1a148cd9422a85a2",
-      "fileSize": 2219322
+      "versionId": "BnjVBHVl",
+      "versionNumber": "1.21.1-3.6.4",
+      "filename": "moonlight-1.21.1-3.6.4-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/BnjVBHVl/moonlight-1.21.1-3.6.4-neoforge.jar",
+      "sha1": "04a9656a7085dcc751ac58ff0e7faadee5c2def9",
+      "sha512": "8b5695b9f892a6ade3054ead703c763e568164f781cf32d2c76a1daf6e0b28ab336ed13441d4c71d1605cc95f58bb1f2d87f7674f7f33a93c0a1592a6c4a447a",
+      "fileSize": 2228649
     }
   },
   "dependents": [

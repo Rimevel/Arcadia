@@ -1,0 +1,23 @@
+{
+  "name": "World Host",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2AIZDfYo",
+      "slug": "world-host",
+      "versionId": "SGnkF0Pb",
+      "versionNumber": "0.5.2+1.21.1-neoforge",
+      "filename": "world-host-0.5.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2AIZDfYo/versions/SGnkF0Pb/world-host-0.5.2%2B1.21.1-neoforge.jar",
+      "sha1": "1bd229afd4e39bdc25a5400706c16052db1861f6",
+      "sha512": "8a5ab57e856be1a0d61e439d4f48c320d6482411e15e4c54646091c129b78d0f32b6f46d88b284e42ef9e219665510ae337aa903970ac21180129e5dbd3d2bfe",
+      "fileSize": 510574
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

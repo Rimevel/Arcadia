@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "qnQsVE2z",
       "slug": "quark",
-      "versionId": "yvp3Jbmk",
-      "versionNumber": "4.1-482",
-      "filename": "Quark-4.1-482.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/qnQsVE2z/versions/yvp3Jbmk/Quark-4.1-482.jar",
-      "sha1": "f73c3008321a9fb2da1151be9b49f0dfd006b6b5",
-      "sha512": "811e1e9f263a7e4951896a646507d6d03bebef6c38c113425e5d25acd4da0af9a07a6e5f9f11393cb41cb6f1a97667d7748c4bf21bf842e87ca2b05d6ea9cd81",
-      "fileSize": 15576704
+      "versionId": "dDePx0Jy",
+      "versionNumber": "4.1-484",
+      "filename": "Quark-4.1-484.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dDePx0Jy/Quark-4.1-484.jar",
+      "sha1": "33e5f73fd94e602649c8072606e1beb59cf6e0ff",
+      "sha512": "e3611b8b04ea1f6cd9a4d478695e0dae034d73868a59cacd6e433a3d408f79ef774b9b8608fef9875b52491791e3ce1c3c68786d45d52646c999a2f2a496f777",
+      "fileSize": 15590058
     }
   },
   "dependents": [],

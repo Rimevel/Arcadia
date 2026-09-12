@@ -2,11 +2,11 @@
   "files": [
     {
       "path": "content/mods/acedium-sodiumized.json",
-      "sha1": "b9029e08a7de4c25c7cc7b3e9b7189610eb4e625"
+      "sha1": "15b4692e55b8bfa722928c3ae6391514be0ba345"
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "6161e49b337aade1987e2711f9d2870d949e289b"
+      "sha1": "3808c88189b81eb047492afef4e8fdd20c2acf6f"
     },
     {
       "path": "content/mods/another-furniture.json",
@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/better-clouds.json",
-      "sha1": "20a08bec4d088eee073c37fcd5d68927f0e2206a"
+      "sha1": "7c08045aea4d6b082e29d40957577e90b7a6afa1"
     },
     {
       "path": "content/mods/biolith.json",
@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "db334757f6aabaf680814311590d6470172a822d"
+      "sha1": "33b54972ce69318c80164fe801891654b50ebaf5"
     },
     {
       "path": "content/mods/blur-plus.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/create-bits-n-bobs.json",
-      "sha1": "2fb55b4db0e0cf57601d136474a74d48d7994eda"
+      "sha1": "6a2839bafcc32ec96d891517283dbbbd72c0a579"
     },
     {
       "path": "content/mods/create.json",
@@ -114,7 +114,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "dace93a089c769ff95ebd801ebadf659eceab034"
+      "sha1": "7341c25b26689597da4270917dc68776cf15cd9a"
     },
     {
       "path": "content/mods/just-enough-effect-descriptions-jeed.json",
@@ -134,11 +134,11 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "6edb19065aae7fc55aa1e3fb2687021804a843e9"
+      "sha1": "078d53270c04e68945f392d6e21cfe7778a64ed7"
     },
     {
       "path": "content/mods/ldlib.json",
-      "sha1": "bae2b1de2b9a4e69f5833ec63957359e6e8324d6"
+      "sha1": "753804663b2f79e58eac5cc6cbf9f22c23582da1"
     },
     {
       "path": "content/mods/lootjs.json",
@@ -158,7 +158,7 @@
     },
     {
       "path": "content/mods/modest-magic.json",
-      "sha1": "b99e89cafa3c2f510cc3f964de921fafc7ee416f"
+      "sha1": "b9a9658ed951ddbdf166731fdb5dd1681bab0750"
     },
     {
       "path": "content/mods/modest-mining.json",
@@ -166,15 +166,15 @@
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "f7a074af6658be49f1f21dae5513495e8fe0109e"
+      "sha1": "16e21a53318c423c0ac499ffa909d5a6ce580210"
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "97544fafe996b757648f298566ffbf10f6c964a6"
+      "sha1": "c1af1cb9ef919acf2ce56bb9441b435137d9f07b"
     },
     {
       "path": "content/mods/multiblocked2.json",
-      "sha1": "82e1d3ab8e0d795bc0dac0f2d4039d77b18fce4b"
+      "sha1": "eb5d1af66efcc32d860ed3d20d6a6642042c1932"
     },
     {
       "path": "content/mods/neapolitan.json",
@@ -190,7 +190,7 @@
     },
     {
       "path": "content/mods/packs-editor.json",
-      "sha1": "c8f1b2dbaa76dce95f1e5f59fbbb1d8613c97caf"
+      "sha1": "d0c60aab6b53fdd5408be2a2615a08bfcda97c54"
     },
     {
       "path": "content/mods/probejs.json",
@@ -198,7 +198,7 @@
     },
     {
       "path": "content/mods/quark.json",
-      "sha1": "723c06c6cbd16ad98e38eff16aa0111b25a6629f"
+      "sha1": "f0a4bbf3fa1df15d8a7c3abf40af0dce6261ad55"
     },
     {
       "path": "content/mods/recreative.json",
@@ -206,19 +206,19 @@
     },
     {
       "path": "content/mods/reliable-advancements.json",
-      "sha1": "e9ed4b272461991c1a6bc4eaa7078deb3a4ebe3c"
+      "sha1": "6feff82b5c7f5f4a7cf09a4dac42d8ae91c6fd58"
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "1640fb3301d4b010033c89485b1cd69583e9ee16"
+      "sha1": "22c7a8242a5a02d400f6ecb909b75b2d3096acb6"
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "311d396895d52a96cadff1c3c1e99839be972620"
+      "sha1": "6176366363889cb107b5ac18167cef71f8739df9"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "b8a24f9530030a2e2f5252d97c145dfe9a18f1cd"
+      "sha1": "9116a57b3ea76b00bb267b900a83948ad6152812"
     },
     {
       "path": "content/mods/reliable-replacer.json",
@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/renourisheddelight.json",
-      "sha1": "bae7d03ee6965f1667b3af57f23e5558a848407c"
+      "sha1": "0aa6ac182c3f1f0f9eeaa8b2521764e5fed6c5af"
     },
     {
       "path": "content/mods/rhino.json",
@@ -242,7 +242,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "546f05c36d79c34df00c0c199c49ba47fcef8826"
+      "sha1": "0f9edb5bb88839eea14f7b7a023e0216a1e2b835"
     },
     {
       "path": "content/mods/sodium.json",
@@ -274,7 +274,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "94e2eab97cb1147e9f0f0d8367bed464682f4c15"
+      "sha1": "05fdfec46ab632eb2e260bf4cd71b767daee5b89"
     },
     {
       "path": "content/mods/teallib.json",
@@ -287,6 +287,10 @@
     {
       "path": "content/mods/upgrade-aquatic.json",
       "sha1": "b0a7344252e7e781db83e81933c334cc5cc621fa"
+    },
+    {
+      "path": "content/mods/world-host.json",
+      "sha1": "497ece4c2dd27536f271462e8caca80f531b514b"
     },
     {
       "path": "content/mods/yacl.json",
