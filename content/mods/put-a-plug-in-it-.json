@@ -1,0 +1,23 @@
+{
+  "name": "Put A Plug In it! (PAPI)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xedaBnSm",
+      "slug": "put-a-plug-in-it!",
+      "versionId": "k2bRvJqS",
+      "versionNumber": "neoforge-1.21.1-1.2.1",
+      "filename": "papi-neoforge-1.21.1-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xedaBnSm/versions/k2bRvJqS/papi-neoforge-1.21.1-1.2.1.jar",
+      "sha1": "80cae1480819ac98c7455ac8f0f838287264817f",
+      "sha512": "9b90bea4c9e8eaafd3f4e6abff2d9bc405fe48293ffd2be1abeded4ad9182d0c20b95ad9f7fc2cf78844d237af5ec2bf1f34ebebdd6091e9b1e91c876304e3bf",
+      "fileSize": 100503
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ServerCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4WWQxlQP",
+      "slug": "servercore",
+      "versionId": "6N9hXiRa",
+      "versionNumber": "1.5.19+1.21.1",
+      "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4WWQxlQP/versions/6N9hXiRa/servercore-neoforge-1.5.19%2B1.21.1.jar",
+      "sha1": "62ce692654e09271b5c55cbb3a1ef7606d067132",
+      "sha512": "55b97df4cc46f52db85b96487188d73c62d511229d98859991c115414c5f1ab37f2f40a0f2edb5692220aa94d6c48b392b0a2d8593b3c3381b1fcbde2a728c8f",
+      "fileSize": 1462674
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

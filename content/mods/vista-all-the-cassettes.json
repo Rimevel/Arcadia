@@ -1,0 +1,23 @@
+{
+  "name": "Vista - All The Cassettes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LmEe7LrV",
+      "slug": "vista-all-the-cassettes",
+      "versionId": "Gyjt65TV",
+      "versionNumber": "1.2.0+neoforge.mc1.21.1",
+      "filename": "vistaallthetapes - 1.2.0 - neoforge - 1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LmEe7LrV/versions/Gyjt65TV/vistaallthetapes%20-%201.2.0%20-%20neoforge%20-%201.21.1.jar",
+      "sha1": "b77b062159ec1f3f04f7955e705a903c0cbaa585",
+      "sha512": "8e82d3dcdcf536b96551b72d2ad2dfb4e5193bbf25c8505b3ba969283c1f49ba314954596833e0be58939caa417fdd7285ae433e7fb716eed0433e90a0be634c",
+      "fileSize": 6080891
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

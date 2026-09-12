@@ -168,6 +168,186 @@
 				"after": 10800,
 				"amplifier": 1,
 				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
+			},
+			{
+				"effect": "minecraft:slowness",
+				"after": 3600,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:mining_fatigue",
+				"after": 7200,
+				"amplifier": 1,
+				"max": 3
+			},
+			{
+				"effect": "minecraft:weakness",
+				"after": 10800,
+				"amplifier": 1,
+				"max": 2
 			}
 		]
 	}

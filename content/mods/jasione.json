@@ -1,0 +1,23 @@
+{
+  "name": "Jasione",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qlDkBPij",
+      "slug": "jasione",
+      "versionId": "vbe7Ency",
+      "versionNumber": "1.0.8+1.21.1-neoforge",
+      "filename": "jasione-1.0.8+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qlDkBPij/versions/vbe7Ency/jasione-1.0.8%2B1.21.1-neoforge.jar",
+      "sha1": "17c471f208fc033ba3282d613fec886a6719031c",
+      "sha512": "ec86b415b9ade03e98bee214d4dfc1fb31a24672dd978708994df11d90b3677e7d23b16a69a8f70eec7073607c94e64e9b84cfa2d19e2274b5a93043a5cc2456",
+      "fileSize": 747713
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

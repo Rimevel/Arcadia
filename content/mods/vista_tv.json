@@ -1,0 +1,23 @@
+{
+  "name": "vista",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zuARv1N7",
+      "slug": "vista_tv",
+      "versionId": "OQJ0JIvR",
+      "versionNumber": "1.21.1-5.5.3",
+      "filename": "vista-1.21.1-5.5.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zuARv1N7/versions/OQJ0JIvR/vista-1.21.1-5.5.3-neoforge.jar",
+      "sha1": "8febf3ad6dde8270a0762ab751063cd6aa3374d5",
+      "sha512": "19ed8460fae004b4e4b10388578181ea1e43314d1170369f5d0036effc9687b25226ff492855f53b6c6814d94ae3468413f34f4dd165cb32061a878ed0f36bec",
+      "fileSize": 5773142
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
