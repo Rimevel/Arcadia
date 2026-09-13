@@ -97,6 +97,10 @@
       "sha1": "8a275ffe7c63926933fa33fbf0015f0cb6b21440"
     },
     {
+      "path": "content/mods/e4mc.json",
+      "sha1": "fbbb4f5e9110c720b55098a1cb14acf152228885"
+    },
+    {
       "path": "content/mods/emi.json",
       "sha1": "f169010bd97401630fd89289be38ba6198f7fc20"
     },
@@ -343,10 +347,6 @@
     {
       "path": "content/mods/vista_tv.json",
       "sha1": "eef02558c96ee76684e6b00f9cc2b855dc348194"
-    },
-    {
-      "path": "content/mods/world-host.json",
-      "sha1": "497ece4c2dd27536f271462e8caca80f531b514b"
     },
     {
       "path": "content/mods/yacl.json",
