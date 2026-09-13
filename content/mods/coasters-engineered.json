@@ -1,0 +1,23 @@
+{
+  "name": "Coasters: Engineered",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "guKf87OB",
+      "slug": "coasters-engineered",
+      "versionId": "pzBMM4ER",
+      "versionNumber": "1.1.1",
+      "filename": "coastersengineered-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/guKf87OB/versions/pzBMM4ER/coastersengineered-1.21.1-1.1.1.jar",
+      "sha1": "71238147443c0cf85bc661f0c56a9e6d4d36fd74",
+      "sha512": "437633b806a579fbceec72894ebaacd151b77da0f6b951a957316171c199f67310bc270c4b0206566a4cb4ed7fd2968704d4f3c63922ae6ff5ea095978e64a80",
+      "fileSize": 539658
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

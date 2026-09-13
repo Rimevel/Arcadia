@@ -77,6 +77,10 @@
       "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
     },
     {
+      "path": "content/mods/coasters-engineered.json",
+      "sha1": "e847fd55f71dfb2cfea07f9d505faee38b510441"
+    },
+    {
       "path": "content/mods/cooks-collection.json",
       "sha1": "26683342dfed14b9d5a5c614136caeda231f7ad5"
     },
@@ -93,8 +97,12 @@
       "sha1": "6a2839bafcc32ec96d891517283dbbbd72c0a579"
     },
     {
+      "path": "content/mods/create-coasters-simulated.json",
+      "sha1": "52d8ec328a8f8e4cd710c446e761e068ed814d5b"
+    },
+    {
       "path": "content/mods/create.json",
-      "sha1": "8a275ffe7c63926933fa33fbf0015f0cb6b21440"
+      "sha1": "0514b95edb3d9bac0bc5098074f1b07787d096d0"
     },
     {
       "path": "content/mods/e4mc.json",
@@ -286,7 +294,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "8bb25fde14b63ebabd62a5c337248aa894b6f3b6"
+      "sha1": "bb23d94f2e123c6eacbee7a08bfc5315b664b2cb"
     },
     {
       "path": "content/mods/servercore.json",

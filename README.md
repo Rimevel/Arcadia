@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 76 mods (15 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 78 mods (15 dependencies)
 
 ## Contents
 
@@ -17,11 +17,13 @@
 - [Bobby ReNeoForged [Unofficial Port]](https://modrinth.com/project/bobby-reneoforged) `5.2.4-0.4+mc1.21`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
+- [Coasters: Engineered](https://modrinth.com/project/coasters-engineered) `1.1.1`
 - [Cook's Collection](https://modrinth.com/project/cooks-collection) `0.5.6`
 - [Crafting Mats](https://modrinth.com/project/crafting-mats) `1.1.0+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.2`
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
 - [e4mc](https://modrinth.com/project/e4mc) `6.2.1-neoforge`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
