@@ -1434,7 +1434,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/forge.js",
-      "sha1": "0cdcb8925a0cbaf9104d1a86cbd75457eda68b70"
+      "sha1": "097e3ba5ebd5ed908d2ee4a26348547f44773c42"
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/modest_magic/remove_tablets.js",
