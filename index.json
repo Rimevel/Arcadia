@@ -1345,6 +1345,10 @@
       "sha1": "95fef9bbd4b50f76cdbcde0e0de1562ef6485bd6"
     },
     {
+      "path": "overrides/kubejs/client_scripts/creative/emi_filters.js",
+      "sha1": "87a11e1b6788bdc15a3d8d7841d999e93f4ba052"
+    },
+    {
       "path": "overrides/kubejs/client_scripts/creative/groups.js",
       "sha1": "4b6f92c2044a802bf218e11f1c2870a66d676c1a"
     },
