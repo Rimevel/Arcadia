@@ -1,0 +1,25 @@
+{
+  "name": "Defaulted",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LxgPJAAy",
+      "slug": "defaulted",
+      "versionId": "la1VsajO",
+      "versionNumber": "1.3.8-1.21.1-NeoForge",
+      "filename": "defaulted-1.3.8.release-1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LxgPJAAy/versions/la1VsajO/defaulted-1.3.8.release-1.21.1-neoforge.jar",
+      "sha1": "ccdbf82b2f037bb44b5310eeb441710f0f2848f5",
+      "sha512": "e022f1df0da72e07757526d718fbc907a53074a7cc30d30fd9ce74766896f1506c0e835908b0926c44c2ea99101afdc20b9f77db05ffeefe45c84a4a16eacf4f",
+      "fileSize": 1001566
+    }
+  },
+  "dependents": [
+    "U5TJjZc3"
+  ],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

@@ -1057,6 +1057,13 @@
     "bits_n_bobs:gigantic_cogwheel",
     "modestmining:silver_dust",
     "modestmining:debris_dust",
-    "modestmining:meteoric_dust"
+    "modestmining:meteoric_dust",
+    "bits_n_bobs:granite_tiles",
+    "bits_n_bobs:diorite_tiles",
+    "bits_n_bobs:andesite_tiles",
+    "bits_n_bobs:calcite_tiles",
+    "bits_n_bobs:dripstone_tiles",
+    "bits_n_bobs:tuff_tiles",
+    "supplementaries:lapis_bricks"
   ]
 }

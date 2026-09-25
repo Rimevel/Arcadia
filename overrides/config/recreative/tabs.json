@@ -15,7 +15,6 @@
       "minecraft:building_blocks",
       "simulated:main_tab",
       "spawn:spawn_eggs",
-      "minecraft:search",
       "nomansland:nomansland",
       "minecraft:ingredients",
       "bits_n_bobs:bnb_palettes",
@@ -100,7 +99,9 @@
       "pack:bread_and_pastries",
       "pack:drinks_and_desserts",
       "pack:potions",
-      "minecraft:spawn_eggs"
+      "minecraft:spawn_eggs",
+      "coastersengineered:main",
+      "simulatedcoasters:main"
     ]
   },
   {
@@ -8936,7 +8937,10 @@
       "upgrade_aquatic:tooth_lantern",
       "upgrade_aquatic:tooth_door",
       "upgrade_aquatic:tooth_trapdoor",
-      "caverns_and_chasms:rotten_flesh_block"
+      "caverns_and_chasms:rotten_flesh_block",
+      "quark:bonded_leather",
+      "quark:bonded_rabbit_hide",
+      "quark:bonded_ravager_hide"
     ],
     "order": []
   },
@@ -9119,6 +9123,8 @@
       "minecraft:glowstone_dust",
       "minecraft:gunpowder",
       "minecraft:sugar",
+      "create:wheat_flour",
+      "create:cinder_flour",
       "aeronautics:end_stone_powder",
       "minecraft:blaze_powder",
       "minecraft:dragon_breath",

@@ -26,7 +26,21 @@
       "nomansland:mushroom_stew",
       "minecraft:rabbit_stew_from_brown_mushroom",
       "nomansland:rabbit_stew_from_red_mushroom",
-      "minecraft:beetroot_soup"
+      "minecraft:beetroot_soup",
+      "caverns_and_chasms:copper_pickaxe",
+      "caverns_and_chasms:silver_pickaxe",
+      "caverns_and_chasms:copper_shovel",
+      "caverns_and_chasms:copper_axe",
+      "caverns_and_chasms:copper_hoe",
+      "caverns_and_chasms:silver_shovel",
+      "caverns_and_chasms:silver_axe",
+      "caverns_and_chasms:silver_hoe",
+      "caverns_and_chasms:exposed_copper_pickaxe",
+      "caverns_and_chasms:weathered_copper_pickaxe",
+      "caverns_and_chasms:oxidized_copper_pickaxe",
+      "caverns_and_chasms:exposed_copper_hoe",
+      "caverns_and_chasms:weathered_copper_hoe",
+      "caverns_and_chasms:oxidized_copper_hoe"
     ]
   }
 ]

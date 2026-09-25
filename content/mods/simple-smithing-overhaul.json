@@ -1,0 +1,23 @@
+{
+  "name": "Simple Smithing Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "U5TJjZc3",
+      "slug": "simple-smithing-overhaul",
+      "versionId": "BLjT8gdf",
+      "versionNumber": "2.9.14+1.21.1",
+      "filename": "simple_smithing_overhaul-neoforge-2.9.14+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/U5TJjZc3/versions/BLjT8gdf/simple_smithing_overhaul-neoforge-2.9.14%2B1.21.1.jar",
+      "sha1": "7095c22572ebc3287acfed52e5184e997c654ecf",
+      "sha512": "a61d5d0251177b8270294d8f8c4bc1759a0ee02b144e3e966fa4f8c3f47db3414aa97cccd635f2b59aa5d3f129518c47058d3d54eecead0955500bc9cac8e9ea",
+      "fileSize": 365318
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

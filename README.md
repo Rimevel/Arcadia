@@ -1,6 +1,6 @@
 # Arcadia
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 77 mods (17 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.251**, 77 mods (17 dependencies)
 
 ## Contents
 
