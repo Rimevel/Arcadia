@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YDWv8k6N",
       "slug": "renourisheddelight",
-      "versionId": "v1hCdtbT",
-      "versionNumber": "1.21.1_3.1.0-beta",
-      "filename": "renourisheddelight-1.21.1_3.1.0-beta.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/YDWv8k6N/versions/v1hCdtbT/renourisheddelight-1.21.1_3.1.0-beta.jar",
-      "sha1": "d57b303390f426afdf75639f4e88cbcd9cdeba82",
-      "sha512": "2ef15a4a929c97ae85fb77c086e30b679960adf4d7878f899bb7d77b9dd4cdf2ce7215cd026f1ef0262124124a0c49dcf2921a4b693d5dc76ae8ab35b0977313",
-      "fileSize": 200718
+      "versionId": "ebO21eT5",
+      "versionNumber": "1.21.1_3.2.1-release",
+      "filename": "renourisheddelight-1.21.1_3.2.1-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YDWv8k6N/versions/ebO21eT5/renourisheddelight-1.21.1_3.2.1-release.jar",
+      "sha1": "037b597d22e6d855459d4cad54b32a7c5aea43ec",
+      "sha512": "b1fe77649436c2b7a4c1748e2eee6c9f21f9139b33c29bb26c89bbd5c25ad7b2d46479365f3cee8c0367b21edc4694613207c190bf15f30b32eda567560f7102",
+      "fileSize": 209084
     }
   },
   "dependents": [],

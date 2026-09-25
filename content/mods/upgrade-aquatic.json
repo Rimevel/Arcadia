@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "gTuTFFyz",
       "slug": "upgrade-aquatic",
-      "versionId": "3ZycbXog",
-      "versionNumber": "7.0.1",
-      "filename": "upgrade_aquatic-1.21.1-7.0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/gTuTFFyz/versions/3ZycbXog/upgrade_aquatic-1.21.1-7.0.1.jar",
-      "sha1": "439a90a9eb660822af3ec0fc7af8d3770bbc40af",
-      "sha512": "8a2c7e27fecff28c34fd254875024cb2743e94ceb5c007f33cb28563e2007b1afddfc6d90637fd28ad07eeda39e3835b01395e4471ed1bb9392b7665d0020882",
-      "fileSize": 4925541
+      "versionId": "9zf6y4e4",
+      "versionNumber": "7.0.2",
+      "filename": "upgrade_aquatic-1.21.1-7.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gTuTFFyz/versions/9zf6y4e4/upgrade_aquatic-1.21.1-7.0.2.jar",
+      "sha1": "b60f38a304dd29e6c6caf187d4abb8d1d4a15845",
+      "sha512": "e003cf0e48bc94dcead32004b8a2f061996649d80118c1a79e02a14316f62b5e6ba7b81415eeb4fd13e61c5777b2da36c9912fb0e8ab2a29c35979ed4c289c51",
+      "fileSize": 4924493
     }
   },
   "dependents": [],

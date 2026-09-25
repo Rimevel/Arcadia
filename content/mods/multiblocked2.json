@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "R2gjKEpa",
       "slug": "multiblocked2",
-      "versionId": "RKlLMPUC",
-      "versionNumber": "mc1.21.1-21.1.1.a-neoforge",
-      "filename": "Multiblocked2-1.21-1.21.1-21.1.1.a-all.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/R2gjKEpa/versions/RKlLMPUC/Multiblocked2-1.21-1.21.1-21.1.1.a-all.jar",
-      "sha1": "78772d46fa7c6c3cf6d2bc7e4b4ed5ed1fac2d4b",
-      "sha512": "4c066837d8a9366dc633b57efc972f056482fcc0792ec6e770e4e9b67a2d7bb5d771439dfc5de6792f1fa719d2ab7499eaa29408c42af5225b4451a92faae064",
-      "fileSize": 4716986
+      "versionId": "XlQ10omv",
+      "versionNumber": "mc1.21.1-21.1.2-neoforge",
+      "filename": "Multiblocked2-1.21-1.21.1-21.1.2-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R2gjKEpa/versions/XlQ10omv/Multiblocked2-1.21-1.21.1-21.1.2-all.jar",
+      "sha1": "3bf0de0e2a6529b0a889c724bf167c82010473b8",
+      "sha512": "741e43029b4a58584a0d215e7fe62e6553a5648f190d5477f57a01f4570ae3fc0dde997c3ccf3e5405d23556cf59a0f66bf648f5507181a421b8f68bd5de9a7a",
+      "fileSize": 4735218
     }
   },
   "dependents": [],
