@@ -1433,6 +1433,10 @@
       "sha1": "877cb877028101c66e99cc61b7729ab79d35725c"
     },
     {
+      "path": "overrides/kubejs/server_scripts/recipes/compat/shutters.js",
+      "sha1": "be173d0d99be3457a2d0ef0494feb20df683fcd4"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/recipes/crafting_mats/mat.js",
       "sha1": "4caf469c6efae8ed8a2ef093afdfb02811144bfb"
     },
