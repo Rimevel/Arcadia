@@ -1453,6 +1453,10 @@
       "sha1": "9b246d14af3bcb0fd287f567dc2cfa114118046f"
     },
     {
+      "path": "overrides/kubejs/server_scripts/recipes/remove_old_repair.js",
+      "sha1": "6e3454a63765deacd67ee7c729e7b7b192909268"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/recipes/rope.js",
       "sha1": "684849b5acbd8242077875bf3e3c63375b7cdc78"
     },
