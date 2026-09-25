@@ -1309,6 +1309,18 @@
       "sha1": "4bf926d51e4717ec2c2ca641dab1221cdae4ca41"
     },
     {
+      "path": "overrides/kubejs/assets/pack/textures/gui/enchanting_table/icons/infinity.png",
+      "sha1": "de96bf762f61e968c702632e7d994039b5275ab3"
+    },
+    {
+      "path": "overrides/kubejs/assets/pack/textures/gui/enchanting_table/icons/reach.png",
+      "sha1": "e2b766878eea760e21609e4821cb38ba7af67608"
+    },
+    {
+      "path": "overrides/kubejs/assets/pack/textures/gui/enchanting_table/icons/sharpness.png",
+      "sha1": "0aee69b0be1d5b86e405c7037a77e0e365b96369"
+    },
+    {
       "path": "overrides/kubejs/assets/pack/textures/item/andesite_alloy_dust.png",
       "sha1": "937dfce4e5d4a682c4a7c7e9d5eaab001ac96f0b"
     },
@@ -1415,6 +1427,10 @@
     {
       "path": "overrides/kubejs/server_scripts/commands/grab_all_from_inventories.js",
       "sha1": "77ad590855670cf59d36cb6450907b2d5a3c9fb8"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/custom_machines/enchanting_table/enchanting_table.js",
+      "sha1": "538e5531c54038fedbc88cec9179234686e94b2c"
     },
     {
       "path": "overrides/kubejs/server_scripts/jsconfig.json",
@@ -1527,6 +1543,22 @@
     {
       "path": "overrides/kubejs/startup_scripts/jsconfig.json",
       "sha1": "aa3f72ea3c2ead5d73fa31f229a71bcb80b8142e"
+    },
+    {
+      "path": "overrides/ldlib2/assets/ldlib2/resources/global/enchanting_table.renderer.nbt",
+      "sha1": "45050733376fff17b1740585d27b6319be14df8a"
+    },
+    {
+      "path": "overrides/ldlib2/assets/mbd2/machine/enchanting_table.sm",
+      "sha1": "bfaabe68dbc227d5dc12137c74ca0d825622f9c1"
+    },
+    {
+      "path": "overrides/ldlib2/editor_layouts/projects.nbt",
+      "sha1": "b57c69ca0ac04ced7c6aad7d8ad658818348bd63"
+    },
+    {
+      "path": "overrides/ldlib2/editor_layouts/single_machine_project.nbt",
+      "sha1": "89833ccfbad8a961e132cff43e9300b760290c12"
     },
     {
       "path": "overrides/options.txt",
