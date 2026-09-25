@@ -1458,7 +1458,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/rope.js",
-      "sha1": "684849b5acbd8242077875bf3e3c63375b7cdc78"
+      "sha1": "93b59385dd6c9e337c6c4160a20e8283bc3ae43f"
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes/sawmill.js",

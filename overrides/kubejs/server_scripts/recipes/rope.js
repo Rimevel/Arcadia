@@ -18,8 +18,8 @@ ServerEvents.recipes((event) => {
     event.remove({ output: "quark:rope" });
     event.remove({ output: "farmersdelight:rope" });
 
-    event.shaped("supplementaries:rope", ["A", "A", "A"], {
-        A: "farmersdelight:straw",
+    event.shaped(Item.of("supplementaries:rope", 4), ["A", "A"], {
+        A: Ingredient.of(["farmersdelight:straw", "supplementaries:flax"]),
     });
 
     event.remove({
